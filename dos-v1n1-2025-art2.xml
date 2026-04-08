@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
+<article article-type="research-article" xml:lang="es" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">dos-tecnologia-y-negocios</journal-id>
+      <journal-title-group>
+        <journal-title>DOS Tecnología y Negocios</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">DOS Tec. Neg.</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">3091-2121</issn>
+      <publisher>
+        <publisher-name>DOS Tecnología y Negocios</publisher-name>
+      </publisher>
+    </journal-meta>
+
+    <article-meta>
+      <article-id pub-id-type="publisher-id">dos-v1n1-2025-art2</article-id>
+      <article-id pub-id-type="doi">10.5281/zenodo.19411992</article-id>
+
+      <title-group>
+        <article-title>Trabajo, Autoridad y Desconfianza: Una Crítica a la Cultura Organizacional Costarricense</article-title>
+        <trans-title-group xml:lang="en">
+          <trans-title>Work, Authority, and Distrust: A Critique of Costa Rican Organizational Culture</trans-title>
+        </trans-title-group>
+      </title-group>
+
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rosales Robles</surname>
+            <given-names>Ronny</given-names>
+          </name>
+          <aff>
+            <institution>Universidad Hispanoamericana de Costa Rica</institution>
+            <country>Costa Rica</country>
+          </aff>
+        </contrib>
+      </contrib-group>
+
+      <pub-date pub-type="epub">
+        <year>2025</year>
+      </pub-date>
+
+      <volume>1</volume>
+      <issue>1</issue>
+      <fpage>12</fpage>
+      <lpage>18</lpage>
+
+      <permissions>
+        <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/">
+          <license-p>Todos los contenidos se distribuyen bajo una licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0).</license-p>
+        </license>
+      </permissions>
+
+      <abstract>
+        <p>Este artículo analiza críticamente la cultura organizacional costarricense, con el propósito de comprender las raíces históricas y culturales de la desconfianza laboral y las estructuras de autoridad vertical. A partir de un enfoque interpretativo, se examina cómo la herencia colonial, la educación tradicional y los modelos administrativos modernos han consolidado prácticas de control, vigilancia y presencialismo. Asimismo, se discute la relación entre poder y confianza en contextos organizacionales contemporáneos, cuestionando la persistencia de estas lógicas en un entorno globalizado. Finalmente, se plantea la necesidad de transformar estas narrativas hacia modelos basados en la confianza, la autonomía y la colaboración.</p>
+      </abstract>
+
+      <kwd-group kwd-group-type="author-keywords" xml:lang="es">
+        <kwd>cultura organizacional</kwd>
+        <kwd>autoridad</kwd>
+        <kwd>confianza</kwd>
+        <kwd>control laboral</kwd>
+        <kwd>Costa Rica</kwd>
+      </kwd-group>
+
+      <trans-abstract xml:lang="en">
+        <p>This article critically examines Costa Rican organizational culture, aiming to understand the historical and cultural roots of workplace distrust and hierarchical authority structures. Using an interpretative approach, it explores how colonial legacy, traditional education, and modern administrative models have reinforced practices of control, surveillance, and presenteeism. It also discusses the relationship between power and trust in contemporary organizational contexts, questioning the persistence of these dynamics in a globalized environment. Finally, it highlights the need to transform these narratives toward models based on trust, autonomy, and collaboration.</p>
+      </trans-abstract>
+
+      <kwd-group kwd-group-type="author-keywords" xml:lang="en">
+        <kwd>organizational culture</kwd>
+        <kwd>authority</kwd>
+        <kwd>trust</kwd>
+        <kwd>workplace control</kwd>
+        <kwd>Costa Rica</kwd>
+      </kwd-group>
+
+      <self-uri content-type="doi" xlink:href="https://doi.org/10.5281/zenodo.19411992"/>
+      <self-uri content-type="pdf" xlink:href="https://raw.githubusercontent.com/RevistaDos/Revistadostecnologiaynegocios/12d3ee9f5c9b4b260b4406f221fa741e61241e8f/2.%20Trabajo%2C%20Autoridad%20y%20Desconfianza%20Una%20Cr%C3%ADtica%20a%20la%20Cultura%20Organizacional%20Costarricense%20Revista%20DOS%20Tecnolog%C3%ADa%20y%20Negocios%20Vol%201%2C%20N%C3%BAmero%201%20(2025)-12-18.pdf"/>
+      <self-uri content-type="html" xlink:href="https://www.dostecnologiaynegocios.com/2025/07/trabajo-autoridad-y-desconfianza-una.html"/>
+
+    </article-meta>
+  </front>
+
+  <body>
+    <sec>
+      <title>Introducción</title>
+      <p>Este artículo analiza críticamente la cultura organizacional costarricense desde una perspectiva histórica y cultural, explorando las raíces de la desconfianza laboral y las estructuras de autoridad vertical.</p>
+    </sec>
+
+    <sec>
+      <title>Desarrollo</title>
+      <p>Se examinan las influencias de la herencia colonial, la educación tradicional y los modelos administrativos modernos, así como su impacto en prácticas contemporáneas de control y vigilancia en el trabajo.</p>
+    </sec>
+
+    <sec>
+      <title>Discusión</title>
+      <p>Se cuestiona la persistencia de estas dinámicas en contextos actuales, analizando el rol del poder, la confianza y las nuevas formas de organización del trabajo.</p>
+    </sec>
+
+    <sec>
+      <title>Conclusiones</title>
+      <p>Se propone una transformación hacia modelos organizacionales basados en la confianza, la autonomía y la colaboración, superando estructuras tradicionales de control.</p>
+    </sec>
+  </body>
+
+  <back>
+    <ref-list>
+      <title>Referencias</title>
+
+      <ref id="R1"><mixed-citation>Acosta, L. (2012). Historia colonial de Costa Rica.</mixed-citation></ref>
+      <ref id="R2"><mixed-citation>Bourdieu, P. (1986). The forms of capital.</mixed-citation></ref>
+      <ref id="R3"><mixed-citation>Foucault, M. (1975). Vigilar y castigar.</mixed-citation></ref>
+      <ref id="R4"><mixed-citation>Lévi-Strauss, C. (1963). Structural anthropology.</mixed-citation></ref>
+      <ref id="R5"><mixed-citation>Taylor, F. W. (1911). The principles of scientific management.</mixed-citation></ref>
+
+    </ref-list>
+  </back>
+
+</article>
