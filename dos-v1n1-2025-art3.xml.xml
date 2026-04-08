@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
+<article article-type="research-article" xml:lang="es" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">dos-tecnologia-y-negocios</journal-id>
+      <journal-title-group>
+        <journal-title>DOS Tecnología y Negocios</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">DOS Tec. Neg.</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">3091-2121</issn>
+      <publisher>
+        <publisher-name>DOS Tecnología y Negocios</publisher-name>
+      </publisher>
+    </journal-meta>
+
+    <article-meta>
+      <article-id pub-id-type="publisher-id">dos-v1n1-2025-art3</article-id>
+      <article-id pub-id-type="doi">10.5281/zenodo.19412233</article-id>
+
+      <title-group>
+        <article-title>Transformación digital e inteligencia artificial: la tecnología no hace magia</article-title>
+        <trans-title-group xml:lang="en">
+          <trans-title>Digital Transformation and Artificial Intelligence: Technology Does Not Work Magic</trans-title>
+        </trans-title-group>
+      </title-group>
+
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Solano Segura</surname>
+            <given-names>J. Alonso</given-names>
+          </name>
+          <aff>
+            <institution>Universidad Católica de Costa Rica</institution>
+            <institution>Universidad Estatal a Distancia de Costa Rica</institution>
+            <country>Costa Rica</country>
+          </aff>
+        </contrib>
+      </contrib-group>
+
+      <pub-date pub-type="epub">
+        <year>2025</year>
+      </pub-date>
+
+      <volume>1</volume>
+      <issue>1</issue>
+      <fpage>19</fpage>
+      <lpage>33</lpage>
+
+      <permissions>
+        <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/">
+          <license-p>Todos los contenidos se distribuyen bajo una licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0).</license-p>
+        </license>
+      </permissions>
+
+      <abstract>
+        <p>La transformación digital y la adopción de inteligencia artificial suelen presentarse como soluciones inmediatas para modernizar organizaciones. Sin embargo, este artículo sostiene que la tecnología no genera resultados sostenibles sin fundamentos organizacionales sólidos. El objetivo es analizar por qué muchas iniciativas fracasan cuando se implementan sobre procesos mal definidos, datos de baja calidad y culturas organizacionales inmaduras. A partir de un análisis conceptual, se examinan elementos clave como la gestión por procesos, la calidad de datos, la planificación estratégica y la cultura de mejora continua. Se concluye que la transformación digital y la inteligencia artificial no son puntos de partida, sino resultados de la madurez organizacional. La tecnología no sustituye el orden, sino que lo amplifica.</p>
+      </abstract>
+
+      <kwd-group kwd-group-type="author-keywords" xml:lang="es">
+        <kwd>transformación digital</kwd>
+        <kwd>inteligencia artificial</kwd>
+        <kwd>madurez organizacional</kwd>
+        <kwd>calidad de datos</kwd>
+        <kwd>gestión por procesos</kwd>
+      </kwd-group>
+
+      <trans-abstract xml:lang="en">
+        <p>Digital transformation and the adoption of artificial intelligence are often presented as immediate solutions to modernize organizations. However, this article argues that technology does not produce sustainable results without strong organizational foundations. The objective is to analyze why many initiatives fail when implemented on poorly defined processes, low-quality data, and immature organizational cultures. Through a conceptual analysis, key elements such as process management, data quality, strategic planning, and a culture of continuous improvement are examined. It is concluded that digital transformation and artificial intelligence are not starting points, but outcomes of organizational maturity. Technology does not replace order; it amplifies it.</p>
+      </trans-abstract>
+
+      <kwd-group kwd-group-type="author-keywords" xml:lang="en">
+        <kwd>digital transformation</kwd>
+        <kwd>artificial intelligence</kwd>
+        <kwd>organizational maturity</kwd>
+        <kwd>data quality</kwd>
+        <kwd>process management</kwd>
+      </kwd-group>
+
+      <self-uri content-type="doi" xlink:href="https://doi.org/10.5281/zenodo.19412233"/>
+      <self-uri content-type="pdf" xlink:href="https://raw.githubusercontent.com/RevistaDos/Revistadostecnologiaynegocios/12d3ee9f5c9b4b260b4406f221fa741e61241e8f/3.%20Transformaci%C3%B3n%20digital%20e%20inteligencia%20artificial%20la%20tecnolog%C3%ADa%20no%20hace%20magia%20%20Revista%20DOS%20Tecnolog%C3%ADa%20y%20Negocios%20Vol%201%2C%20N%C3%BAmero%201%20(2025)-19-33.pdf"/>
+      <self-uri content-type="html" xlink:href="https://www.dostecnologiaynegocios.com/2025/11/transformacion-digital-e-inteligencia.html"/>
+
+    </article-meta>
+  </front>
+
+  <body>
+    <sec>
+      <title>Introducción</title>
+      <p>La transformación digital y la adopción de inteligencia artificial se han convertido en tendencias frecuentes en el mundo empresarial. Este artículo cuestiona la visión simplista que presenta a la tecnología como solución inmediata y sostiene que su efectividad depende de procesos claros, datos confiables y una cultura organizacional madura.</p>
+    </sec>
+
+    <sec>
+      <title>Transformación digital, IA y madurez organizacional</title>
+      <p>Se desarrolla un marco conceptual sobre transformación digital, inteligencia artificial, madurez organizacional, gestión por procesos, calidad de datos, gobernanza y análisis del entorno, mostrando que la tecnología solo genera valor sostenible cuando existe una base institucional sólida.</p>
+    </sec>
+
+    <sec>
+      <title>Los cimientos de la transformación digital exitosa</title>
+      <p>El artículo examina como fundamentos previos el conocimiento y documentación de procesos operativos, la existencia de datos limpios, confiables y gobernados, una cultura de calidad y mejora continua, así como la comprensión del entorno y la alineación estratégica.</p>
+    </sec>
+
+    <sec>
+      <title>¿Por qué fracasan muchas implementaciones de IA y transformación digital?</title>
+      <p>Se identifican causas comunes de fracaso, entre ellas la falta de diagnóstico, ausencia de indicadores, resistencia cultural, desorden en procesos y datos, dependencia excesiva de proveedores externos y expectativas irreales sobre la tecnología.</p>
+    </sec>
+
+    <sec>
+      <title>Conclusiones</title>
+      <p>La investigación concluye que la transformación digital y la inteligencia artificial no son puntos de partida, sino resultados de la madurez organizacional. La tecnología no sustituye el orden, sino que lo amplifica; por ello, la ruta efectiva es fortalecer primero la organización y digitalizar después.</p>
+    </sec>
+  </body>
+
+  <back>
+    <ref-list>
+      <title>Referencias</title>
+
+      <ref id="R1"><mixed-citation>Al Maazmi, A., Piya, S., &amp; Araci, Z. C. (2024). Exploring the Critical Success Factors Influencing the Outcome of Digital Transformation Initiatives in Government Organizations. Systems, 12(12), 524. https://doi.org/10.3390/systems12120524</mixed-citation></ref>
+      <ref id="R2"><mixed-citation>Cyfert, S., Dyduch, W., Szumowski, W., &amp; Prause, G. (2025). Are we ready for digital transformation? The role of organizational culture, leadership and competence in building digital advantage. Central European Management Journal, 33(2), 219231. https://doi.org/10.7206/cemj.2658-0845.106</mixed-citation></ref>
+      <ref id="R3"><mixed-citation>El Maarry, K., &amp; Redman, T. C. (2025). How to Get Proactive About Data Quality. MIT Sloan Management Review.</mixed-citation></ref>
+      <ref id="R4"><mixed-citation>FirstEigen. (2024). Data Quality Management: The Key to Digital Transformation Success.</mixed-citation></ref>
+      <ref id="R5"><mixed-citation>Jarrahi, M. H., Memariani, A., &amp; Guha, S. (2023). The Principles of Data-Centric AI. Communications of the ACM, 66(8), 84-92. https://doi.org/10.1145/3571724</mixed-citation></ref>
+      <ref id="R6"><mixed-citation>Pörtner, L., Riel, A., Schmidt, B., Leclaire, M., &amp; Möske, R. (2025). Data Management Maturity Model—Process Dimensions and Capabilities to Leverage Data-Driven Organizations Towards Industry 5.0. Applied System Innovation, 8(2), 41. https://doi.org/10.3390/asi8020041</mixed-citation></ref>
+      <ref id="R7"><mixed-citation>SAP. (2025). Data Quality is Key to AI Success &amp; Transformation.</mixed-citation></ref>
+      <ref id="R8"><mixed-citation>Wang, J., Liu, Y., Li, P., Lin, Z., Sindakis, S., &amp; Aggarwal, S. (2023). Overview of Data Quality: Examining the Dimensions, Antecedents, and Impacts of Data Quality. Journal of the Knowledge Economy. https://doi.org/10.1007/s13132-022-01096-6</mixed-citation></ref>
+      <ref id="R9"><mixed-citation>Harvard Business Review. (2019). Digital transformation is not about technology. https://hbr.org/2019/03/digital-transformation-is-not-about-technology</mixed-citation></ref>
+      <ref id="R10"><mixed-citation>Abu-Mostafa, Y. S., Soria-Comas, J., &amp; Zimek, A. (2022). The principles of data-centric AI (DCAI). arXiv. https://ar5iv.org/pdf/2211.14611</mixed-citation></ref>
+    </ref-list>
+  </back>
+
+</article>
