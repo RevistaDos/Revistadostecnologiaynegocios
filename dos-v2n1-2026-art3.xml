@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE article SYSTEM
+"https://jats.nlm.nih.gov/archiving/1.4/JATS-archivearticle1-4.dtd">
+
+<article
+    article-type="research-article"
+    xml:lang="es"
+    dtd-version="1.4"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <front>
+
+    <!-- =========================================================
+         DATOS DE LA REVISTA
+         ========================================================= -->
+
+    <journal-meta>
+
+      <journal-id journal-id-type="publisher-id">
+        dos-tecnologia-y-negocios
+      </journal-id>
+
+      <journal-title-group>
+        <journal-title>DOS Tecnología y Negocios</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">
+          DOS Tec. Neg.
+        </abbrev-journal-title>
+      </journal-title-group>
+
+      <issn pub-type="epub">3091-2121</issn>
+
+      <publisher>
+        <publisher-name>DOS Tecnología y Negocios</publisher-name>
+      </publisher>
+
+    </journal-meta>
+
+
+    <!-- =========================================================
+         DATOS DEL ARTÍCULO
+         ========================================================= -->
+
+    <article-meta>
+
+      <article-id pub-id-type="publisher-id">
+        dos-v2n1-2026-art3
+      </article-id>
+
+      <article-id pub-id-type="doi">
+        10.5281/zenodo.21911911
+      </article-id>
+
+
+      <!-- TÍTULOS -->
+
+      <title-group>
+
+        <article-title>
+          Adopción de la inteligencia artificial en la gestión empresarial:
+          análisis de la resistencia al cambio y estrategias de implementación
+        </article-title>
+
+        <subtitle>
+          Hacia un modelo integrador de adopción de IA en el ámbito
+          organizacional universitario
+        </subtitle>
+
+        <trans-title-group xml:lang="en">
+          <trans-title>
+            Adoption of Artificial Intelligence in Business Management:
+            Analysis of Resistance to Change and Implementation Strategies
+          </trans-title>
+        </trans-title-group>
+
+      </title-group>
+
+
+      <!-- =========================================================
+           AUTORÍA
+           ========================================================= -->
+
+      <contrib-group>
+
+        <contrib contrib-type="author">
+
+          <contrib-id contrib-id-type="orcid">
+            https://orcid.org/0009-0005-6475-8798
+          </contrib-id>
+
+          <name>
+            <surname>Segura Jiménez</surname>
+            <given-names>Steven</given-names>
+          </name>
+
+          <email>ssegura@uned.ac.cr</email>
+
+          <aff>
+            <institution>Universidad Estatal a Distancia</institution>
+            <country country="CR">Costa Rica</country>
+          </aff>
+
+        </contrib>
+
+      </contrib-group>
+
+
+      <!-- =========================================================
+           DATOS DE PUBLICACIÓN
+           ========================================================= -->
+
+      <pub-date pub-type="epub">
+        <day>12</day>
+        <month>08</month>
+        <year>2026</year>
+      </pub-date>
+
+      <volume>2</volume>
+
+      <issue>1</issue>
+
+      <fpage>28</fpage>
+
+      <lpage>33</lpage>
+
+
+      <!-- =========================================================
+           HISTORIAL EDITORIAL
+           ========================================================= -->
+
+      <history>
+
+        <date date-type="received">
+          <day>29</day>
+          <month>04</month>
+          <year>2026</year>
+        </date>
+
+        <date date-type="rev-recd">
+          <day>09</day>
+          <month>06</month>
+          <year>2026</year>
+        </date>
+
+        <date date-type="accepted">
+          <day>22</day>
+          <month>06</month>
+          <year>2026</year>
+        </date>
+
+      </history>
+
+
+      <!-- =========================================================
+           LICENCIA
+           ========================================================= -->
+
+      <permissions>
+
+        <copyright-statement>
+          © 2026 Revista DOS Tecnología y Negocios
+        </copyright-statement>
+
+        <copyright-year>2026</copyright-year>
+
+        <copyright-holder>
+          DOS Tecnología y Negocios
+        </copyright-holder>
+
+        <license
+            license-type="open-access"
+            xlink:href="https://creativecommons.org/licenses/by/4.0/">
+
+          <license-p>
+            Todos los contenidos se distribuyen bajo una licencia
+            Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
+          </license-p>
+
+        </license>
+
+      </permissions>
+
+
+      <!-- =========================================================
+           RESUMEN
+           ========================================================= -->
+
+      <abstract xml:lang="es">
+
+        <p>
+          La adopción de la inteligencia artificial (IA) en la gestión
+          empresarial constituye un eje central de la transformación digital
+          contemporánea, al ofrecer capacidades para optimizar procesos,
+          fortalecer la toma de decisiones y generar ventajas competitivas.
+          No obstante, su implementación suele verse condicionada por factores
+          organizacionales y humanos, entre los cuales destaca la resistencia
+          al cambio. Este artículo analiza, desde una perspectiva teórica y
+          analítica, los principales elementos que inciden en dicha resistencia,
+          como la cultura organizacional, el liderazgo, la percepción del riesgo
+          tecnológico y las competencias digitales del talento humano. A partir
+          de una revisión documental especializada, se proponen estrategias
+          para facilitar la integración de la IA, enfatizando la gestión del
+          cambio, la capacitación continua y el alineamiento estratégico entre
+          tecnología, personas y procesos. Se concluye que la adopción exitosa
+          de la IA trasciende el ámbito tecnológico y depende de la capacidad
+          de las organizaciones para gestionar el componente humano de la
+          transformación digital.
+        </p>
+
+      </abstract>
+
+
+      <!-- PALABRAS CLAVE -->
+
+      <kwd-group
+          kwd-group-type="author-keywords"
+          xml:lang="es">
+
+        <kwd>inteligencia artificial</kwd>
+        <kwd>gestión empresarial</kwd>
+        <kwd>resistencia al cambio</kwd>
+        <kwd>transformación digital</kwd>
+        <kwd>cultura organizacional</kwd>
+
+      </kwd-group>
+
+
+      <!-- =========================================================
+           ABSTRACT
+           ========================================================= -->
+
+      <trans-abstract xml:lang="en">
+
+        <p>
+          The adoption of artificial intelligence (AI) in business management
+          constitutes a central axis of contemporary digital transformation,
+          as it offers capabilities to optimize processes, strengthen
+          decision-making, and generate competitive advantages. However,
+          its implementation is often conditioned by organizational and human
+          factors, among which resistance to change stands out. This article
+          analyzes, from a theoretical and analytical perspective, the main
+          elements that influence such resistance, such as organizational
+          culture, leadership, the perception of technological risk, and the
+          digital competencies of human talent. Based on a specialized
+          documentary review, strategies are proposed to facilitate the
+          integration of AI, emphasizing change management, continuous
+          training, and the strategic alignment between technology, people,
+          and processes. It is concluded that the successful adoption of AI
+          goes beyond the technological sphere and depends on the
+          organization’s ability to manage the human component of digital
+          transformation.
+        </p>
+
+      </trans-abstract>
+
+
+      <!-- KEYWORDS -->
+
+      <kwd-group
+          kwd-group-type="author-keywords"
+          xml:lang="en">
+
+        <kwd>artificial intelligence</kwd>
+        <kwd>business management</kwd>
+        <kwd>resistance to change</kwd>
+        <kwd>digital transformation</kwd>
+        <kwd>organizational culture</kwd>
+
+      </kwd-group>
+
+
+      <!-- =========================================================
+           IDENTIFICADORES Y VERSIONES
+           ========================================================= -->
+
+      <self-uri
+          content-type="doi"
+          xlink:href="https://doi.org/10.5281/zenodo.21911911"/>
+
+      <self-uri
+          content-type="html"
+          xlink:href="https://www.dostecnologiaynegocios.com/2026/08/adopcion-de-la-inteligencia-artificial.html"/>
+
+      <self-uri
+          content-type="pdf"
+          xlink:href="https://raw.githubusercontent.com/RevistaDos/Revistadostecnologiaynegocios/main/3.%20Adopci%C3%B3n%20de%20la%20inteligencia%20artificial%20en%20la%20gesti%C3%B3n%20empresarial%20an%C3%A1lisis%20de%20la%20resistencia%20al%20cambio%20y%20estrategias%20de%20implementaci%C3%B3n%20Revista%20DOS%20Tecnolog%C3%ADa%20y%20Negocios%20Vol%202%2C%20N%C3%BAmero%201%202026-28-33.pdf"/>
+
+
+      <!-- =========================================================
+           METADATOS EDITORIALES ADICIONALES
+           ========================================================= -->
+
+      <custom-meta-group>
+
+        <custom-meta>
+          <meta-name>article-subtype</meta-name>
+          <meta-value>Ensayo académico</meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>methodological-approach</meta-name>
+          <meta-value>Cualitativo</meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>review-type</meta-name>
+          <meta-value>Revisión narrativa</meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>methodological-strategy</meta-name>
+          <meta-value>Análisis conceptual y revisión documental</meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>proposed-model</meta-name>
+          <meta-value>
+            Modelo integrador de adopción de inteligencia artificial:
+            capacidad tecnológica, apropiación sociocognitiva y
+            gobernanza organizacional
+          </meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>journal-location</meta-name>
+          <meta-value>San José, Costa Rica</meta-value>
+        </custom-meta>
+
+      </custom-meta-group>
+
+    </article-meta>
+
+  </front>
+
+
+  <!-- ============================================================
+       CUERPO DEL ARTÍCULO
+       ============================================================ -->
+
+  <body>
+
+
+    <!-- INTRODUCCIÓN -->
+
+    <sec sec-type="intro">
+
+      <title>Introducción</title>
+
+      <p>
+        La inteligencia artificial se ha consolidado como una tecnología
+        disruptiva para la gestión empresarial debido a su capacidad para
+        analizar grandes volúmenes de datos, automatizar tareas complejas
+        y generar modelos predictivos.
+      </p>
+
+      <p>
+        Sin embargo, su incorporación implica transformaciones profundas
+        en los modelos de trabajo, los procesos de toma de decisiones y las
+        dinámicas organizacionales. En este contexto, la resistencia al cambio
+        constituye uno de los principales desafíos para su adopción.
+      </p>
+
+      <p>
+        El artículo tiene como objetivo analizar los factores que explican la
+        resistencia al cambio en la adopción de la inteligencia artificial y
+        proponer estrategias que faciliten su implementación efectiva en la
+        gestión empresarial.
+      </p>
+
+    </sec>
+
+
+    <!-- MARCO TEÓRICO -->
+
+    <sec sec-type="background">
+
+      <title>Marco teórico</title>
+
+      <p>
+        El análisis se sustenta en tres ejes conceptuales interrelacionados:
+        la inteligencia artificial como herramienta estratégica de gestión,
+        la resistencia al cambio organizacional y los modelos de adopción
+        tecnológica.
+      </p>
+
+      <p>
+        En el ámbito empresarial, la inteligencia artificial se considera un
+        habilitador de la transformación digital al posibilitar la automatización
+        inteligente de procesos, el análisis predictivo y la personalización
+        de productos y servicios.
+      </p>
+
+      <p>
+        La resistencia al cambio se aborda como un fenómeno multifactorial
+        que involucra dimensiones psicológicas, sociales, estructurales y
+        culturales.
+      </p>
+
+      <p>
+        Para analizar la aceptación tecnológica se consideran, entre otros,
+        el Technology Acceptance Model de Davis y la Teoría de la Difusión
+        de las Innovaciones de Rogers.
+      </p>
+
+    </sec>
+
+
+    <!-- METODOLOGÍA -->
+
+    <sec sec-type="methods">
+
+      <title>Metodología</title>
+
+      <p>
+        El trabajo se desarrolla bajo la modalidad de ensayo académico
+        con un enfoque de revisión narrativa, orientado al análisis conceptual
+        de la adopción de la inteligencia artificial en la gestión empresarial
+        y de los factores asociados a la resistencia al cambio organizacional.
+      </p>
+
+      <p>
+        La investigación se inscribe en un enfoque cualitativo sustentado
+        en la integración, análisis y discusión crítica de aportes teóricos
+        provenientes de literatura especializada.
+      </p>
+
+      <p>
+        La estrategia metodológica combina el análisis conceptual con la
+        revisión documental, permitiendo identificar, sistematizar y contrastar
+        enfoques relacionados con transformación digital, gestión del cambio
+        y adopción tecnológica.
+      </p>
+
+      <p>
+        Para la selección de fuentes se consideraron criterios de relevancia
+        temática, rigor académico, actualidad y pertinencia teórica.
+      </p>
+
+    </sec>
+
+
+    <!-- DESARROLLO -->
+
+    <sec>
+
+      <title>Desarrollo</title>
+
+      <p>
+        La adopción de la inteligencia artificial representa un proceso de
+        cambio organizacional profundo que trasciende la dimensión
+        tecnológica y requiere redefinir procesos, roles y competencias.
+      </p>
+
+
+      <sec>
+
+        <title>Percepción de amenaza laboral</title>
+
+        <p>
+          La automatización inteligente puede ser interpretada por las
+          personas trabajadoras como un riesgo para la estabilidad laboral,
+          especialmente cuando la comunicación organizacional resulta
+          insuficiente.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Competencias digitales</title>
+
+        <p>
+          La ausencia de habilidades técnicas y analíticas puede limitar la
+          capacidad del personal para interactuar con sistemas basados en IA,
+          incrementando la inseguridad y el rechazo ante la tecnología.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Cultura organizacional</title>
+
+        <p>
+          Las organizaciones con estructuras rígidas, baja tolerancia al error
+          y poca orientación hacia la innovación tienden a presentar mayores
+          niveles de resistencia al cambio.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Liderazgo</title>
+
+        <p>
+          El liderazgo desempeña una función central en la adopción de IA.
+          Una visión clara, la participación del personal y el respaldo a los
+          procesos de capacitación contribuyen a generar confianza.
+        </p>
+
+      </sec>
+
+
+      <!-- MODELO PROPUESTO -->
+
+      <sec>
+
+        <title>
+          Modelo integrador de adopción de inteligencia artificial
+        </title>
+
+        <p>
+          A partir de la experiencia en la gestión de organizaciones públicas,
+          particularmente en el ámbito universitario, se propone un modelo
+          integrador para la adopción de la inteligencia artificial.
+        </p>
+
+        <p>
+          El modelo articula tres dimensiones interdependientes:
+          capacidad tecnológica, apropiación sociocognitiva y gobernanza
+          organizacional.
+        </p>
+
+        <p>
+          La propuesta plantea que los procesos de incorporación de IA no
+          suelen verse limitados exclusivamente por la disponibilidad
+          tecnológica, sino por brechas en comprensión, aceptación y
+          alineación estratégica de los actores institucionales.
+        </p>
+
+        <p>
+          Una adopción efectiva requiere combinar infraestructura y sistemas
+          con capacidades críticas del talento humano y marcos de gobernanza
+          capaces de garantizar coherencia estratégica, uso ético de los datos
+          y participación activa de los distintos niveles organizacionales.
+        </p>
+
+      </sec>
+
+    </sec>
+
+
+    <!-- ANÁLISIS -->
+
+    <sec sec-type="discussion">
+
+      <title>Análisis</title>
+
+      <p>
+        La resistencia al cambio no debe interpretarse únicamente como un
+        obstáculo, sino también como un posible indicador de debilidades
+        organizacionales relacionadas con comunicación interna, gestión del
+        talento humano y alineación estratégica.
+      </p>
+
+
+      <sec>
+
+        <title>Gestión del cambio estructurada</title>
+
+        <p>
+          La adopción de modelos formales de gestión del cambio permite
+          abordar sistemáticamente las dimensiones humanas y
+          organizacionales del proceso de transformación.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Capacitación y desarrollo de competencias</title>
+
+        <p>
+          Los programas de formación orientados al desarrollo de
+          competencias digitales pueden fortalecer la apropiación de las
+          nuevas tecnologías y reducir la incertidumbre frente a la IA.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Comunicación efectiva y participación activa</title>
+
+        <p>
+          La transparencia informativa y la participación de las personas
+          durante las etapas de implementación favorecen la apropiación
+          tecnológica y el compromiso organizacional.
+        </p>
+
+      </sec>
+
+      <p>
+        También se destaca la necesidad de alinear la adopción de la
+        inteligencia artificial con los objetivos estratégicos de la
+        organización y evitar implementaciones aisladas sin una visión
+        integral y sostenible.
+      </p>
+
+    </sec>
+
+
+    <!-- CONCLUSIONES -->
+
+    <sec sec-type="conclusions">
+
+      <title>Conclusiones</title>
+
+      <p>
+        La adopción de la inteligencia artificial en la gestión empresarial
+        representa una oportunidad estratégica para fortalecer la
+        competitividad y la eficiencia organizacional, pero su éxito depende
+        de la capacidad institucional para gestionar la resistencia al cambio.
+      </p>
+
+      <p>
+        La resistencia constituye un fenómeno complejo y multifactorial que
+        requiere abordar conjuntamente la tecnología, la cultura
+        organizacional, el liderazgo y el desarrollo del talento humano.
+      </p>
+
+      <p>
+        Se recomienda que futuras investigaciones desarrollen estudios
+        empíricos sobre casos específicos de adopción de IA en diferentes
+        sectores empresariales para validar los modelos teóricos y generar
+        evidencia contextualizada.
+      </p>
+
+    </sec>
+
+  </body>
+
+
+  <!-- ============================================================
+       REFERENCIAS
+       ============================================================ -->
+
+  <back>
+
+    <ref-list>
+
+      <title>Referencias</title>
+
+
+      <ref id="R1">
+        <mixed-citation>
+          Davis, F. D. (1989). Perceived usefulness, perceived ease
+          of use, and user acceptance of information technology.
+          MIS Quarterly, 13(3), 319–340.
+          https://doi.org/10.2307/249008
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R2">
+        <mixed-citation>
+          Kotter, J. P. (1996). Leading change.
+          Harvard Business School Press.
+          https://www.hbs.edu/faculty/Pages/item.aspx?num=137
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R3">
+        <mixed-citation>
+          Lewin, K. (1947). Frontiers in group dynamics.
+          Human Relations, 1(2), 143–153.
+          https://journals.sagepub.com/doi/10.1177/001872674700100201
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R4">
+        <mixed-citation>
+          Rogers, E. M. (2003).
+          Diffusion of innovations (5th ed.). Free Press.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R5">
+        <mixed-citation>
+          Russell, S., &amp; Norvig, P. (2021).
+          Artificial intelligence: A modern approach (4th ed.).
+          Pearson.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R6">
+        <mixed-citation>
+          Vial, G. (2019). Understanding digital transformation:
+          A review and a research agenda.
+          The Journal of Strategic Information Systems, 28(2), 118–144.
+          https://doi.org/10.1016/j.jsis.2019.01.003
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R7">
+        <mixed-citation>
+          Westerman, G., Bonnet, D., &amp; McAfee, A. (2014).
+          Leading digital: Turning technology into business transformation.
+          Harvard Business Review Press.
+          https://hbsp.harvard.edu/product/17039-HBK-ENG
+        </mixed-citation>
+      </ref>
+
+    </ref-list>
+
+  </back>
+
+</article>

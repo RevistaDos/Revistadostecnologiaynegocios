@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE article SYSTEM
+"https://jats.nlm.nih.gov/archiving/1.4/JATS-archivearticle1-4.dtd">
+
+<article
+    article-type="research-article"
+    xml:lang="es"
+    dtd-version="1.4"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <front>
+
+    <!-- =========================================================
+         DATOS DE LA REVISTA
+         ========================================================= -->
+
+    <journal-meta>
+
+      <journal-id journal-id-type="publisher-id">
+        dos-tecnologia-y-negocios
+      </journal-id>
+
+      <journal-title-group>
+        <journal-title>DOS Tecnología y Negocios</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">
+          DOS Tec. Neg.
+        </abbrev-journal-title>
+      </journal-title-group>
+
+      <issn pub-type="epub">3091-2121</issn>
+
+      <publisher>
+        <publisher-name>DOS Tecnología y Negocios</publisher-name>
+      </publisher>
+
+    </journal-meta>
+
+
+    <!-- =========================================================
+         DATOS DEL ARTÍCULO
+         ========================================================= -->
+
+    <article-meta>
+
+      <article-id pub-id-type="publisher-id">
+        dos-v2n1-2026-art2
+      </article-id>
+
+      <article-id pub-id-type="doi">
+        10.5281/zenodo.21911847
+      </article-id>
+
+
+      <!-- TÍTULOS -->
+
+      <title-group>
+
+        <article-title>
+          Monitoreo inteligente de calidad de agua mediante IoT:
+          prototipo aplicado a la ASADA de La Lucha en San Carlos,
+          Costa Rica
+        </article-title>
+
+        <trans-title-group xml:lang="en">
+          <trans-title>
+            Intelligent Water Quality Monitoring Using IoT:
+            Prototype Applied to the ASADA of La Lucha in
+            San Carlos, Costa Rica
+          </trans-title>
+        </trans-title-group>
+
+      </title-group>
+
+
+      <!-- =========================================================
+           AUTORÍA
+           ========================================================= -->
+
+      <contrib-group>
+
+        <contrib contrib-type="author">
+
+          <contrib-id contrib-id-type="orcid">
+            https://orcid.org/0009-0006-0924-496X
+          </contrib-id>
+
+          <name>
+            <surname>Bolaños Salas</surname>
+            <given-names>Michael Gerardo</given-names>
+          </name>
+
+          <email>mlbolanos1@gmail.com</email>
+
+          <aff>
+            <institution>Universidad Católica de Costa Rica</institution>
+            <country country="CR">Costa Rica</country>
+          </aff>
+
+        </contrib>
+
+      </contrib-group>
+
+
+      <!-- =========================================================
+           DATOS DE PUBLICACIÓN
+           ========================================================= -->
+
+      <pub-date pub-type="epub">
+        <day>12</day>
+        <month>08</month>
+        <year>2026</year>
+      </pub-date>
+
+      <volume>2</volume>
+
+      <issue>1</issue>
+
+      <fpage>20</fpage>
+
+      <lpage>27</lpage>
+
+
+      <!-- =========================================================
+           HISTORIAL EDITORIAL
+           ========================================================= -->
+
+      <history>
+
+        <date date-type="received">
+          <day>21</day>
+          <month>05</month>
+          <year>2026</year>
+        </date>
+
+        <date date-type="rev-recd">
+          <day>09</day>
+          <month>06</month>
+          <year>2026</year>
+        </date>
+
+        <date date-type="accepted">
+          <day>22</day>
+          <month>06</month>
+          <year>2026</year>
+        </date>
+
+      </history>
+
+
+      <!-- =========================================================
+           LICENCIA
+           ========================================================= -->
+
+      <permissions>
+
+        <copyright-statement>
+          © 2026 Revista DOS Tecnología y Negocios
+        </copyright-statement>
+
+        <copyright-year>2026</copyright-year>
+
+        <copyright-holder>
+          DOS Tecnología y Negocios
+        </copyright-holder>
+
+        <license
+            license-type="open-access"
+            xlink:href="https://creativecommons.org/licenses/by/4.0/">
+
+          <license-p>
+            Todos los contenidos se distribuyen bajo una licencia
+            Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
+          </license-p>
+
+        </license>
+
+      </permissions>
+
+
+      <!-- =========================================================
+           RESUMEN
+           ========================================================= -->
+
+      <abstract xml:lang="es">
+
+        <p>
+          El artículo presenta el diseño de un prototipo basado en Internet
+          de las Cosas para el monitoreo inteligente de la calidad del agua
+          en la ASADA de La Lucha, en San Carlos, Costa Rica. La propuesta
+          responde a la necesidad de fortalecer la supervisión continua y
+          trazable de parámetros como pH, turbidez, conductividad, cloro
+          residual y caudal, mediante sensores, microcontrolador ESP32,
+          comunicación LoRaWAN y una plataforma digital de visualización.
+          El estudio concluye que las tecnologías IoT pueden contribuir a
+          modernizar la gestión de acueductos rurales, al facilitar la captura
+          automática de datos, la detección temprana de variaciones y la toma
+          de decisiones preventivas en la administración comunitaria del agua
+          potable.
+        </p>
+
+      </abstract>
+
+
+      <!-- PALABRAS CLAVE -->
+
+      <kwd-group
+          kwd-group-type="author-keywords"
+          xml:lang="es">
+
+        <kwd>Internet de las Cosas</kwd>
+        <kwd>calidad del agua</kwd>
+        <kwd>ASADA</kwd>
+        <kwd>monitoreo inteligente</kwd>
+        <kwd>acueductos rurales</kwd>
+
+      </kwd-group>
+
+
+      <!-- =========================================================
+           ABSTRACT
+           ========================================================= -->
+
+      <trans-abstract xml:lang="en">
+
+        <p>
+          This article presents the design of an Internet of Things-based
+          prototype for intelligent water quality monitoring in the ASADA
+          of La Lucha, located in San Carlos, Costa Rica. The proposal
+          responds to the need to strengthen continuous and traceable
+          monitoring of parameters such as pH, turbidity, conductivity,
+          residual chlorine, and flow rate through sensors, an ESP32
+          microcontroller, LoRaWAN communication, and a digital visualization
+          platform. The study concludes that IoT technologies can contribute
+          to modernizing the management of rural water supply systems by
+          enabling automatic data collection, early detection of variations,
+          and preventive decision-making in community-based drinking water
+          administration.
+        </p>
+
+      </trans-abstract>
+
+
+      <!-- KEYWORDS -->
+
+      <kwd-group
+          kwd-group-type="author-keywords"
+          xml:lang="en">
+
+        <kwd>Internet of Things</kwd>
+        <kwd>water quality</kwd>
+        <kwd>ASADA</kwd>
+        <kwd>intelligent monitoring</kwd>
+        <kwd>rural water supply systems</kwd>
+
+      </kwd-group>
+
+
+      <!-- =========================================================
+           IDENTIFICADORES Y VERSIONES
+           ========================================================= -->
+
+      <self-uri
+          content-type="doi"
+          xlink:href="https://doi.org/10.5281/zenodo.21911847"/>
+
+      <self-uri
+          content-type="html"
+          xlink:href="https://www.dostecnologiaynegocios.com/2026/06/borrador_0879097904.html"/>
+
+      <self-uri
+          content-type="pdf"
+          xlink:href="https://raw.githubusercontent.com/RevistaDos/Revistadostecnologiaynegocios/main/2.%20Monitoreo%20inteligente%20de%20calidad%20de%20agua%20mediante%20IoT%20prototipo%20aplicado%20a%20la%20ASADA%20de%20La%20Lucha%20en%20San%20Carlos%2C%20Costa%20Rica.pdf"/>
+
+
+      <!-- =========================================================
+           METADATOS EDITORIALES ADICIONALES
+           ========================================================= -->
+
+      <custom-meta-group>
+
+        <custom-meta>
+          <meta-name>article-subtype</meta-name>
+          <meta-value>Investigación aplicada</meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>methodological-approach</meta-name>
+          <meta-value>Enfoque mixto</meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>research-scope</meta-name>
+          <meta-value>Descriptivo y propositivo</meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>research-design</meta-name>
+          <meta-value>No experimental y transversal</meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>article-origin</meta-name>
+          <meta-value>
+            Derivado de Trabajo Final de Graduación del Bachillerato
+            en Ingeniería en Sistemas
+          </meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>journal-location</meta-name>
+          <meta-value>San José, Costa Rica</meta-value>
+        </custom-meta>
+
+      </custom-meta-group>
+
+    </article-meta>
+
+  </front>
+
+
+  <!-- ============================================================
+       CUERPO DEL ARTÍCULO
+       ============================================================ -->
+
+  <body>
+
+
+    <!-- INTRODUCCIÓN -->
+
+    <sec sec-type="intro">
+
+      <title>Introducción</title>
+
+      <p>
+        La investigación deriva del Trabajo Final de Graduación del grado
+        de Bachillerato en Ingeniería en Sistemas de la Universidad Católica
+        de Costa Rica y plantea el diseño de un prototipo tecnológico
+        orientado al monitoreo inteligente de la calidad del agua potable
+        mediante Internet de las Cosas.
+      </p>
+
+      <p>
+        El estudio toma como caso la ASADA de La Lucha, ubicada en
+        San Carlos, Costa Rica, con el propósito de fortalecer el monitoreo
+        preventivo mediante sensores conectados, transmisión de datos y
+        visualización remota de indicadores relevantes.
+      </p>
+
+      <p>
+        La propuesta integra tecnologías asociadas con la Industria 4.0
+        y se vincula particularmente con el Objetivo de Desarrollo
+        Sostenible 6, relativo al agua limpia y saneamiento.
+      </p>
+
+    </sec>
+
+
+    <!-- MARCO CONCEPTUAL -->
+
+    <sec sec-type="background">
+
+      <title>Marco conceptual</title>
+
+
+      <sec>
+
+        <title>Internet de las Cosas y calidad del agua</title>
+
+        <p>
+          El Internet de las Cosas permite interconectar dispositivos físicos
+          capaces de recopilar, procesar y transmitir datos, posibilitando
+          procesos automatizados de monitoreo y toma de decisiones.
+        </p>
+
+        <p>
+          En el contexto hídrico, la tecnología permite supervisar parámetros
+          físico-químicos relevantes como pH, turbidez, temperatura,
+          conductividad eléctrica, sólidos disueltos, oxígeno disuelto y
+          niveles de cloro residual.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Sensores IoT aplicados al monitoreo del agua</title>
+
+        <p>
+          Los sensores constituyen la capa encargada de capturar información
+          del entorno físico y permiten automatizar procesos de supervisión
+          que tradicionalmente requieren intervención manual.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Arquitectura IoT</title>
+
+        <p>
+          La arquitectura conceptual se organiza en tres capas:
+          percepción, red y aplicación. Estas permiten respectivamente
+          capturar datos, transmitir la información y procesarla o visualizarla
+          mediante sistemas digitales.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>ASADAS en Costa Rica</title>
+
+        <p>
+          Las Asociaciones Administradoras de Sistemas de Acueductos y
+          Alcantarillados Sanitarios son organizaciones comunitarias
+          responsables de administrar sistemas de abastecimiento de agua
+          en diversas comunidades costarricenses.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Sostenibilidad y Objetivos de Desarrollo Sostenible</title>
+
+        <p>
+          La investigación se relaciona particularmente con los Objetivos de
+          Desarrollo Sostenible 6, 9 y 11, vinculados respectivamente con
+          agua limpia y saneamiento, innovación e infraestructura y
+          comunidades sostenibles.
+        </p>
+
+      </sec>
+
+    </sec>
+
+
+    <!-- METODOLOGÍA -->
+
+    <sec sec-type="methods">
+
+      <title>Metodología</title>
+
+      <p>
+        La investigación se desarrolló bajo un enfoque mixto, integrando
+        elementos cualitativos y cuantitativos para comprender la problemática
+        relacionada con el monitoreo de la calidad del agua potable y diseñar
+        una propuesta tecnológica basada en Internet de las Cosas.
+      </p>
+
+      <p>
+        El estudio corresponde a una investigación aplicada, de alcance
+        descriptivo y propositivo, con diseño metodológico no experimental
+        y transversal.
+      </p>
+
+
+      <sec>
+
+        <title>Población y muestra</title>
+
+        <p>
+          La población estuvo conformada por el entorno operativo relacionado
+          con la gestión del recurso hídrico dentro de la ASADA de La Lucha.
+          La muestra se centró en el caso específico de dicha organización
+          comunitaria, considerando sus procesos actuales, necesidades
+          tecnológicas y condiciones operativas.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Técnicas e instrumentos de recolección de información</title>
+
+        <p>
+          La investigación utilizó observación directa, análisis documental,
+          levantamiento de requerimientos y modelado de arquitectura
+          tecnológica.
+        </p>
+
+        <p>
+          Entre los instrumentos utilizados se contemplaron una guía de
+          observación, una matriz de análisis de requerimientos, revisión
+          bibliográfica especializada, diagramas de arquitectura y modelos
+          conceptuales del prototipo IoT.
+        </p>
+
+      </sec>
+
+    </sec>
+
+
+    <!-- DESARROLLO -->
+
+    <sec>
+
+      <title>Desarrollo</title>
+
+      <p>
+        Como parte del proceso investigativo se diseñó una propuesta
+        tecnológica orientada al monitoreo inteligente de la calidad del
+        agua mediante Internet de las Cosas tomando como caso de estudio
+        la ASADA de La Lucha.
+      </p>
+
+
+      <sec>
+
+        <title>Análisis de requerimientos</title>
+
+        <p>
+          Se identificaron necesidades asociadas con supervisión continua,
+          acceso remoto a información, almacenamiento histórico de datos,
+          generación de alertas, mantenimiento, escalabilidad y bajo costo
+          operativo.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Diseño de arquitectura del sistema</title>
+
+        <p>
+          La arquitectura propuesta se estructura en capas de percepción,
+          comunicación y aplicación.
+        </p>
+
+
+        <sec>
+
+          <title>Capa de percepción</title>
+
+          <p>
+            Esta capa se encarga de capturar información mediante sensores
+            de pH, turbidez, temperatura, TDS y nivel de agua.
+          </p>
+
+        </sec>
+
+
+        <sec>
+
+          <title>Capa de comunicación</title>
+
+          <p>
+            Esta capa permite transferir información desde los sensores
+            hacia la plataforma de monitoreo mediante tecnologías como
+            Wi-Fi, MQTT, GSM/4G y LoRaWAN.
+          </p>
+
+        </sec>
+
+
+        <sec>
+
+          <title>Capa de aplicación</title>
+
+          <p>
+            La capa de aplicación se encarga del procesamiento,
+            visualización y análisis de los datos mediante dashboards,
+            alertas, registros históricos y reportes.
+          </p>
+
+        </sec>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Selección tecnológica</title>
+
+        <p>
+          La propuesta considera un microcontrolador ESP32 o equivalente,
+          sensores de monitoreo hídrico, módulos de comunicación,
+          almacenamiento en nube, una plataforma de visualización,
+          protocolo MQTT y un motor de alertas.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Diseño funcional del prototipo</title>
+
+        <p>
+          El sistema plantea un flujo donde los sensores capturan información,
+          el microcontrolador procesa los datos, estos son transmitidos a una
+          plataforma central y posteriormente almacenados y visualizados en
+          tiempo real. Ante una anomalía, el sistema genera una alerta.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Validación conceptual</title>
+
+        <p>
+          Debido al alcance académico del proyecto, el desarrollo corresponde
+          a una propuesta funcional conceptual diseñada para una futura
+          implementación piloto dentro de la organización.
+        </p>
+
+      </sec>
+
+    </sec>
+
+
+    <!-- RESULTADOS -->
+
+    <sec sec-type="results">
+
+      <title>Resultados</title>
+
+      <p>
+        Los resultados evidencian oportunidades de mejora en los procesos
+        actuales de supervisión de la calidad del agua dentro de la ASADA
+        de La Lucha.
+      </p>
+
+      <p>
+        Se identificaron limitaciones relacionadas con la dependencia de
+        mediciones manuales, tiempos prolongados de respuesta ante anomalías,
+        dificultades para la supervisión continua, poca trazabilidad histórica
+        y ausencia de alertas automatizadas.
+      </p>
+
+      <p>
+        Como resultado principal se desarrolló una propuesta conceptual
+        de prototipo inteligente para el monitoreo automatizado de parámetros
+        críticos del agua potable.
+      </p>
+
+    </sec>
+
+
+    <!-- CONCLUSIONES -->
+
+    <sec sec-type="conclusions">
+
+      <title>Conclusiones</title>
+
+      <p>
+        La investigación permitió identificar limitaciones importantes en los
+        mecanismos tradicionales de supervisión de la calidad del agua en
+        organizaciones comunitarias rurales y evidenció la necesidad de
+        incorporar herramientas para mejorar la trazabilidad y el seguimiento
+        continuo.
+      </p>
+
+      <p>
+        El diseño del prototipo demuestra la viabilidad técnica conceptual de
+        integrar sensores, microcontroladores, comunicación de largo alcance
+        y plataformas digitales para automatizar la captura y transmisión
+        de datos.
+      </p>
+
+      <p>
+        La arquitectura propuesta permitiría evolucionar desde un modelo
+        reactivo hacia un enfoque preventivo basado en datos y fortalecer
+        la capacidad de respuesta ante posibles riesgos sanitarios u
+        operativos.
+      </p>
+
+      <p>
+        Finalmente, el proyecto proporciona una base conceptual y técnica
+        para futuras implementaciones reales y plantea la posibilidad de
+        replicar la solución en otras ASADAS rurales de Costa Rica.
+      </p>
+
+    </sec>
+
+  </body>
+
+
+  <!-- ============================================================
+       REFERENCIAS
+       ============================================================ -->
+
+  <back>
+
+    <ref-list>
+
+      <title>Referencias</title>
+
+
+      <ref id="R1">
+        <mixed-citation>
+          Abrajano, J. V., et al. (2024). IoT based water quality
+          monitoring system in Philippine off grid communities.
+          arXiv. https://arxiv.org/abs/2410.14619
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R2">
+        <mixed-citation>
+          Academia TEC. (2023). Sistema de monitorización IoT para
+          la producción de agua [Tesis]. Repositorio TEC.
+          https://repositoriotec.tec.ac.cr/handle/2238/15130
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R3">
+        <mixed-citation>
+          Busacca, F., et al. (2024). A wireless sensor network IoT
+          platform for consumption and quality monitoring.
+          SN Applied Sciences.
+          https://www.researchgate.net/publication/386389816_A_wireless_sensor_network_IoT_platform_for_consumption_and_quality_monitoring_of_drinking_water
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R4">
+        <mixed-citation>
+          Chaves Campos, A., et al. (2011). Desarrollo de una red de
+          monitoreo por sensores remotos de la calidad de agua.
+          Tecnología en Marcha.
+          https://revistas.tec.ac.cr/index.php/tec_marcha/article/view/202
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R5">
+        <mixed-citation>
+          Espressif Systems. (2023). ESP32 series datasheet.
+          https://www.espressif.com
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R6">
+        <mixed-citation>
+          Kerzner, H. (2017). Project management: A systems approach
+          to planning, scheduling, and controlling (12th ed.). Wiley.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R7">
+        <mixed-citation>
+          Krklješ, D. B., et al. (2023). Low cost Internet of Things
+          water quality monitoring system. Sensors.
+          https://arxiv.org/abs/2307.11630
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R8">
+        <mixed-citation>
+          Ley N.º 8968, Protección de la Persona frente al Tratamiento
+          de sus Datos Personales, Costa Rica.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R9">
+        <mixed-citation>
+          Milesight. (2023). UG87 LoRaWAN gateway.
+          https://www.milesight.com
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R10">
+        <mixed-citation>
+          Ministerio de Salud. (2015). Reglamento para la calidad del
+          agua potable (Decreto Ejecutivo N.º 38924-S).
+          http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?param1=NRTC&amp;nValor1=1&amp;nValor2=80047&amp;nValor3=101480&amp;strTipM=TC
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R11">
+        <mixed-citation>
+          Oviedo Crespo, S. A. (2021). Diseño e implementación de
+          prototipo IoT para el monitoreo remoto [Tesis]. UPS DSpace.
+          https://dspace.ups.edu.ec/handle/123456789/20344
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R12">
+        <mixed-citation>
+          Prasad, S., et al. (2020). Smart water quality monitoring
+          system with cost effective using IoT. PMC.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R13">
+        <mixed-citation>
+          Project Management Institute. (2021). Guía de los fundamentos
+          para la dirección de proyectos (PMBOK® Guide) (7.ª ed.).
+          Project Management Institute.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R14">
+        <mixed-citation>
+          Rojas Vargas, J. R. (2016). Sistema inteligente de monitoreo
+          basado en sistemas embebidos [Proyecto de graduación,
+          Universidad de Costa Rica]. RUCR.
+          https://ruie.ucr.ac.cr/catalogo/Record/INII-UIR-CD-19071/Description
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R15">
+        <mixed-citation>
+          Solé Barahona, I. A. (2023). Desarrollo de un sistema de
+          adquisición de datos de parámetros de calidad del agua
+          [Trabajo final, Universidad de Costa Rica]. RUCR.
+          https://repositorio.sibdi.ucr.ac.cr/handle/123456789/23440
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R16">
+        <mixed-citation>
+          United Nations. (2015). Transforming our world:
+          The 2030 Agenda for Sustainable Development.
+          https://sdgs.un.org/2030agenda
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R17">
+        <mixed-citation>
+          Vásquez Morera, J. (2019). Monitoreo de la calidad de las
+          aguas superficiales en Costa Rica [Trabajo de graduación,
+          Universidad de Costa Rica]. Repositorio UCR.
+          https://hdl.handle.net/10669/79313
+        </mixed-citation>
+      </ref>
+
+    </ref-list>
+
+  </back>
+
+</article>

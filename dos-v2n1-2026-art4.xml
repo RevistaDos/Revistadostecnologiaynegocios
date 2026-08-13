@@ -1,0 +1,1060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE article SYSTEM
+"https://jats.nlm.nih.gov/archiving/1.4/JATS-archivearticle1-4.dtd">
+
+<article
+    article-type="research-article"
+    xml:lang="es"
+    dtd-version="1.4"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <front>
+
+    <!-- =========================================================
+         DATOS DE LA REVISTA
+         ========================================================= -->
+
+    <journal-meta>
+
+      <journal-id journal-id-type="publisher-id">
+        dos-tecnologia-y-negocios
+      </journal-id>
+
+      <journal-title-group>
+        <journal-title>DOS Tecnología y Negocios</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">
+          DOS Tec. Neg.
+        </abbrev-journal-title>
+      </journal-title-group>
+
+      <issn pub-type="epub">3091-2121</issn>
+
+      <publisher>
+        <publisher-name>DOS Tecnología y Negocios</publisher-name>
+      </publisher>
+
+    </journal-meta>
+
+
+    <!-- =========================================================
+         DATOS DEL ARTÍCULO
+         ========================================================= -->
+
+    <article-meta>
+
+      <article-id pub-id-type="publisher-id">
+        dos-v2n1-2026-art4
+      </article-id>
+
+      <article-id pub-id-type="doi">
+        10.5281/zenodo.21911957
+      </article-id>
+
+
+      <!-- TÍTULOS -->
+
+      <title-group>
+
+        <article-title>
+          Metodología de Planificación Estratégica Integrada para la Gestión
+          de Calidad, Mejora Continua y Modernización Organizacional:
+          El Modelo MEGICMO
+        </article-title>
+
+        <trans-title-group xml:lang="en">
+          <trans-title>
+            Integrated Strategic Planning Methodology for Quality Management,
+            Continuous Improvement, and Organizational Modernization:
+            The MEGICMO Model
+          </trans-title>
+        </trans-title-group>
+
+      </title-group>
+
+
+      <!-- =========================================================
+           AUTORÍA
+           ========================================================= -->
+
+      <contrib-group>
+
+        <contrib contrib-type="author">
+
+          <contrib-id contrib-id-type="orcid">
+            https://orcid.org/0009-0003-2227-2349
+          </contrib-id>
+
+          <name>
+            <surname>Solano Segura</surname>
+            <given-names>J. Alonso</given-names>
+          </name>
+
+          <email>asolanos@uned.ac.cr</email>
+
+          <aff>
+            <institution>Universidad Católica de Costa Rica</institution>
+            <institution>Universidad Estatal a Distancia</institution>
+            <country country="CR">Costa Rica</country>
+          </aff>
+
+        </contrib>
+
+      </contrib-group>
+
+
+      <!-- =========================================================
+           DATOS DE PUBLICACIÓN
+           ========================================================= -->
+
+      <pub-date pub-type="epub">
+        <day>12</day>
+        <month>08</month>
+        <year>2026</year>
+      </pub-date>
+
+      <volume>2</volume>
+
+      <issue>1</issue>
+
+      <fpage>34</fpage>
+
+      <lpage>52</lpage>
+
+
+      <!-- =========================================================
+           HISTORIAL EDITORIAL
+           ========================================================= -->
+
+      <history>
+
+        <date date-type="received">
+          <day>30</day>
+          <month>03</month>
+          <year>2026</year>
+        </date>
+
+        <date date-type="rev-recd">
+          <day>01</day>
+          <month>05</month>
+          <year>2026</year>
+        </date>
+
+        <date date-type="accepted">
+          <day>22</day>
+          <month>06</month>
+          <year>2026</year>
+        </date>
+
+      </history>
+
+
+      <!-- =========================================================
+           LICENCIA
+           ========================================================= -->
+
+      <permissions>
+
+        <copyright-statement>
+          © 2026 Revista DOS Tecnología y Negocios
+        </copyright-statement>
+
+        <copyright-year>2026</copyright-year>
+
+        <copyright-holder>
+          DOS Tecnología y Negocios
+        </copyright-holder>
+
+        <license
+            license-type="open-access"
+            xlink:href="https://creativecommons.org/licenses/by/4.0/">
+
+          <license-p>
+            Todos los contenidos se distribuyen bajo una licencia
+            Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
+          </license-p>
+
+        </license>
+
+      </permissions>
+
+
+      <!-- =========================================================
+           RESUMEN
+           ========================================================= -->
+
+      <abstract xml:lang="es">
+
+        <p>
+          El artículo presenta el Modelo MEGICMO como una metodología de
+          planificación estratégica integrada orientada a articular la gestión
+          de la calidad, la mejora continua y la modernización organizacional.
+          La propuesta responde a la necesidad de superar la implementación
+          fragmentada de estos enfoques, organizando herramientas y estándares
+          como FODA, ISO 9001, PESTEL, SIPOC, CMMI, PHVA y Cuadro de
+          Mando Integral en ocho fases metodológicas. El modelo vincula el
+          diagnóstico organizacional con el análisis de procesos, la
+          identificación de brechas, la formulación estratégica, la
+          implementación y el seguimiento mediante indicadores. Su principal
+          aporte radica en ofrecer una ruta estructurada, adaptable y aplicable
+          a organizaciones públicas y privadas, facilitando la toma de
+          decisiones basada en evidencia y la mejora continua del desempeño
+          institucional.
+        </p>
+
+      </abstract>
+
+
+      <!-- PALABRAS CLAVE -->
+
+      <kwd-group
+          kwd-group-type="author-keywords"
+          xml:lang="es">
+
+        <kwd>planificación estratégica</kwd>
+        <kwd>gestión de calidad</kwd>
+        <kwd>mejora continua</kwd>
+        <kwd>modernización organizacional</kwd>
+        <kwd>MEGICMO</kwd>
+
+      </kwd-group>
+
+
+      <!-- =========================================================
+           ABSTRACT
+           ========================================================= -->
+
+      <trans-abstract xml:lang="en">
+
+        <p>
+          The article presents the MEGICMO Model as an integrated strategic
+          planning methodology aimed at articulating quality management,
+          continuous improvement, and organizational modernization. The
+          proposal responds to the need to overcome the fragmented
+          implementation of these approaches by organizing tools and standards
+          such as SWOT, ISO 9001, PESTEL, SIPOC, CMMI, PDCA, and the
+          Balanced Scorecard into eight methodological phases. The model links
+          organizational diagnosis with process analysis, gap identification,
+          strategic formulation, implementation, and monitoring through
+          indicators. Its main contribution lies in offering a structured,
+          adaptable, and applicable roadmap for public and private
+          organizations, facilitating evidence-based decision-making and the
+          continuous improvement of institutional performance.
+        </p>
+
+      </trans-abstract>
+
+
+      <!-- KEYWORDS -->
+
+      <kwd-group
+          kwd-group-type="author-keywords"
+          xml:lang="en">
+
+        <kwd>strategic planning</kwd>
+        <kwd>quality management</kwd>
+        <kwd>continuous improvement</kwd>
+        <kwd>organizational modernization</kwd>
+        <kwd>MEGICMO</kwd>
+
+      </kwd-group>
+
+
+      <!-- =========================================================
+           IDENTIFICADORES Y VERSIONES
+           ========================================================= -->
+
+      <self-uri
+          content-type="doi"
+          xlink:href="https://doi.org/10.5281/zenodo.21911957"/>
+
+      <self-uri
+          content-type="html"
+          xlink:href="https://www.dostecnologiaynegocios.com/2026/08/metodologia-de-planificacion.html"/>
+
+      <self-uri
+          content-type="pdf"
+          xlink:href="https://raw.githubusercontent.com/RevistaDos/Revistadostecnologiaynegocios/main/4.%20Metodolog%C3%ADa%20de%20Planificaci%C3%B3n%20Estrat%C3%A9gica%20Integrada%20para%20la%20Gesti%C3%B3n%20de%20Calidad%2C%20Mejora%20Continua%20y%20Modernizaci%C3%B3n%20Organizacional%20El%20Modelo%20MEGICMO%20Revista%20DOS%20Tecnolog%C3%ADa%20y%20Negocios%20Vol%202%2C%20N%C3%BAmero%201%202026-34-52.pdf"/>
+
+
+      <!-- =========================================================
+           METADATOS EDITORIALES ADICIONALES
+           ========================================================= -->
+
+      <custom-meta-group>
+
+        <custom-meta>
+          <meta-name>article-subtype</meta-name>
+          <meta-value>
+            Investigación aplicada y propuesta metodológica
+          </meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>methodological-approach</meta-name>
+          <meta-value>Descriptivo-propositivo</meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>research-character</meta-name>
+          <meta-value>Aplicado</meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>research-design</meta-name>
+          <meta-value>No experimental</meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>proposed-model</meta-name>
+          <meta-value>
+            Modelo Estratégico para la Gestión Integrada de Calidad,
+            Mejora Continua y Modernización Organizacional (MEGICMO)
+          </meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>model-phases</meta-name>
+          <meta-value>8</meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>article-origin</meta-name>
+          <meta-value>
+            Derivado de Trabajo Final de Graduación de la Maestría
+            Profesional en Administración de la Universidad de las Ciencias
+            y el Arte
+          </meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>validation-type</meta-name>
+          <meta-value>
+            Validación teórica, metodológica y aplicada
+          </meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>journal-location</meta-name>
+          <meta-value>San José, Costa Rica</meta-value>
+        </custom-meta>
+
+      </custom-meta-group>
+
+    </article-meta>
+
+  </front>
+
+
+  <!-- ============================================================
+       CUERPO DEL ARTÍCULO
+       ============================================================ -->
+
+  <body>
+
+
+    <!-- INTRODUCCIÓN -->
+
+    <sec sec-type="intro">
+
+      <title>Introducción</title>
+
+      <p>
+        Las organizaciones contemporáneas enfrentan el desafío de integrar
+        múltiples enfoques de gestión y planificación estratégica que
+        tradicionalmente han sido abordados de forma aislada, entre ellos la
+        gestión de la calidad, la mejora continua y la modernización
+        organizacional.
+      </p>
+
+      <p>
+        La investigación desarrolla una metodología estratégica integradora
+        denominada Modelo MEGICMO de Gestión Integrada, fundamentada en
+        la adaptación y articulación de modelos teóricos existentes y en el
+        diseño de instrumentos prácticos para su implementación.
+      </p>
+
+      <p>
+        El artículo deriva de una investigación desarrollada como Trabajo
+        Final de Graduación de la Maestría Profesional en Administración,
+        en la cual el modelo fue implementado y validado de forma práctica.
+      </p>
+
+    </sec>
+
+
+    <!-- METODOLOGÍA -->
+
+    <sec sec-type="methods">
+
+      <title>Metodología</title>
+
+      <p>
+        La investigación se desarrolló bajo un enfoque
+        descriptivo-propositivo, de carácter aplicado y no experimental,
+        orientado a la construcción de una metodología para la gestión
+        integrada de la calidad, la mejora continua y la modernización
+        organizacional.
+      </p>
+
+      <p>
+        El proceso metodológico se estructuró en dos ejes: un análisis
+        teórico basado en revisión de literatura y un análisis contextual
+        aplicado orientado a identificar problemáticas asociadas con la
+        fragmentación de enfoques y las necesidades de medición, control
+        y modernización organizacional.
+      </p>
+
+      <p>
+        A partir de ambos ejes se desarrolló una propuesta metodológica
+        integradora que vincula diagnóstico, planificación, implementación
+        y control.
+      </p>
+
+    </sec>
+
+
+    <!-- MARCOS TEÓRICO Y CONCEPTUAL -->
+
+    <sec sec-type="background">
+
+      <title>Marcos teórico y conceptual</title>
+
+      <p>
+        El estudio se fundamenta en la convergencia de cuatro ejes
+        principales: gestión de la calidad, mejora continua, gestión por
+        procesos y modernización organizacional.
+      </p>
+
+
+      <sec>
+
+        <title>Gestión de la calidad como eje estratégico</title>
+
+        <p>
+          La gestión de la calidad se concibe como un sistema integral
+          orientado al desempeño organizacional, la gestión por procesos,
+          la toma de decisiones basada en evidencia y la mejora continua.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Mejora continua como mecanismo de optimización</title>
+
+        <p>
+          La mejora continua se aborda mediante principios como el ciclo
+          PHVA, Kaizen, Lean y TQM, orientados a la optimización progresiva,
+          estandarización y participación organizacional.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Gestión por procesos y trazabilidad organizacional</title>
+
+        <p>
+          La gestión por procesos permite organizar las actividades según
+          el valor generado y facilita su análisis, control, documentación,
+          trazabilidad y mejora continua.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Modernización organizacional y transformación digital</title>
+
+        <p>
+          La modernización organizacional integra transformación estructural,
+          tecnológica y administrativa, incorporando digitalización,
+          automatización, interoperabilidad y gestión basada en datos.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Integración de enfoques y vacío identificado</title>
+
+        <p>
+          El estudio identifica como limitación recurrente la implementación
+          fragmentada de calidad, mejora continua, gestión por procesos y
+          modernización, lo que dificulta su alineación estratégica y la
+          medición integrada del desempeño.
+        </p>
+
+      </sec>
+
+    </sec>
+
+
+    <!-- DESARROLLO -->
+
+    <sec>
+
+      <title>Desarrollo</title>
+
+
+      <sec>
+
+        <title>Construcción metodológica del Modelo MEGICMO</title>
+
+
+        <sec>
+
+          <title>Origen y lógica de construcción del modelo</title>
+
+          <p>
+            El Modelo MEGICMO surge de un proceso de análisis teórico y
+            aplicado orientado a resolver la fragmentación existente entre
+            gestión de calidad, mejora continua, gestión por procesos y
+            modernización organizacional.
+          </p>
+
+          <p>
+            Su lógica consiste en adaptar e integrar herramientas y
+            metodologías consolidadas dentro de un esquema estructurado,
+            operativo y orientado a la toma de decisiones.
+          </p>
+
+        </sec>
+
+
+        <sec>
+
+          <title>Enfoque metodológico del Modelo MEGICMO</title>
+
+          <p>
+            El modelo se concibe como una metodología estructurada de
+            intervención organizacional basada en diagnóstico, diseño,
+            implementación y control.
+          </p>
+
+          <p>
+            Integra enfoques como ISO 9001, PHVA, CMMI, BPM y
+            planificación estratégica, con orientación a procesos y datos,
+            aplicación mediante instrumentos estructurados, adaptabilidad y
+            mejora continua.
+          </p>
+
+        </sec>
+
+
+        <!-- =====================================================
+             OCHO FASES DEL MODELO
+             ===================================================== -->
+
+        <sec>
+
+          <title>Estructura metodológica del Modelo MEGICMO</title>
+
+
+          <sec>
+
+            <title>Fase 1: Diagnóstico organizacional estructurado</title>
+
+            <p>
+              Esta fase constituye el punto de partida del modelo y busca
+              comprender integralmente el contexto organizacional, identificar
+              brechas y establecer una línea base para orientar las decisiones
+              estratégicas.
+            </p>
+
+            <p>
+              Se apoya en herramientas como entrevistas, cuestionarios,
+              análisis PESTEL, análisis FODA, FODA cruzado y matrices
+              integradas FODA-PESTEL.
+            </p>
+
+          </sec>
+
+
+          <sec>
+
+            <title>
+              Fase 2: Análisis de procesos y madurez organizacional
+            </title>
+
+            <p>
+              Esta fase evalúa procesos operativos, administrativos y
+              estratégicos considerando documentación, claridad, roles,
+              recursos, flujos, indicadores, riesgos, vigencia y mecanismos
+              de mejora continua.
+            </p>
+
+            <p>
+              La evaluación de madurez se fundamenta en principios del modelo
+              CMMI y se complementa con entrevistas, cuestionarios, diagramas
+              SIPOC y un checklist de evaluación de procesos.
+            </p>
+
+          </sec>
+
+
+          <sec>
+
+            <title>
+              Fase 3: Identificación de brechas y problemáticas
+            </title>
+
+            <p>
+              Esta fase compara el estado actual de la organización con un
+              estado deseado definido mediante estándares, buenas prácticas
+              y principios de gestión organizacional.
+            </p>
+
+          </sec>
+
+
+          <sec>
+
+            <title>
+              Fase 4: Definición de lineamientos estratégicos de calidad
+            </title>
+
+            <p>
+              A partir de las brechas identificadas se diseñan lineamientos
+              estratégicos y una política de gestión integrada que articula
+              calidad, mejora continua y modernización organizacional.
+            </p>
+
+            <p>
+              Esta fase incorpora un checklist de evaluación de política de
+              calidad para verificar alineación estratégica, enfoque a
+              procesos, orientación al usuario, cumplimiento normativo,
+              mejora continua, gestión basada en evidencia, riesgo,
+              competencias, digitalización y gobernanza.
+            </p>
+
+          </sec>
+
+
+          <sec>
+
+            <title>Fase 5: Construcción del modelo estratégico</title>
+
+            <p>
+              En esta etapa se integran calidad, procesos y modernización en
+              un esquema de gestión único y se definen objetivos estratégicos
+              a partir del cruce sistemático de la información obtenida durante
+              el diagnóstico.
+            </p>
+
+            <p>
+              Los ejes estratégicos se organizan mediante una adaptación del
+              Cuadro de Mando Integral en las perspectivas financiera con
+              enfoque en valor público, clientes y usuarios, procesos internos
+              y aprendizaje y crecimiento.
+            </p>
+
+          </sec>
+
+
+          <sec>
+
+            <title>
+              Fase 6: Diseño del Cuadro de Mando Integral (CMI)
+            </title>
+
+            <p>
+              El CMI traduce la estrategia organizacional en objetivos,
+              indicadores clave de desempeño, metas e iniciativas
+              estratégicas.
+            </p>
+
+          </sec>
+
+
+          <sec>
+
+            <title>Fase 7: Plan de implementación</title>
+
+            <p>
+              Esta fase establece la ruta operativa para ejecutar la estrategia,
+              definiendo fases de ejecución, responsables, acciones y
+              mecanismos de priorización de iniciativas.
+            </p>
+
+          </sec>
+
+
+          <sec>
+
+            <title>
+              Fase 8: Sistema de seguimiento y mejora continua
+            </title>
+
+            <p>
+              La fase final incorpora el ciclo PHVA y el monitoreo mediante
+              indicadores para evaluar el desempeño, detectar desviaciones,
+              retroalimentar la toma de decisiones y generar nuevos ciclos
+              de mejora.
+            </p>
+
+          </sec>
+
+        </sec>
+
+      </sec>
+
+
+      <!-- =========================================================
+           FIGURA CENTRAL
+           ========================================================= -->
+
+      <sec>
+
+        <title>Representación del ciclo MEGICMO</title>
+
+        <fig id="fig1">
+
+          <label>Figura 1</label>
+
+          <caption>
+            <title>
+              Ciclo del Modelo MEGICMO
+            </title>
+            <p>
+              Representación de las ocho fases interrelacionadas del Modelo
+              MEGICMO, organizadas en diagnóstico y análisis, diseño
+              estratégico, planificación e implementación, y seguimiento,
+              control y mejora continua.
+            </p>
+          </caption>
+
+          <attrib>
+            Elaboración propia. Solano Segura, 2026.
+          </attrib>
+
+        </fig>
+
+      </sec>
+
+
+      <!-- VALIDACIÓN -->
+
+      <sec>
+
+        <title>Validación metodológica del Modelo MEGICMO</title>
+
+        <p>
+          El modelo se valida a partir de la combinación de coherencia
+          teórica, consistencia metodológica y aplicabilidad en contextos
+          organizacionales.
+        </p>
+
+        <p>
+          La validación teórica deriva de la integración de enfoques
+          reconocidos en gestión de calidad, mejora continua, procesos,
+          madurez organizacional y planificación estratégica.
+        </p>
+
+        <p>
+          La validación metodológica se sustenta en su carácter sistemático,
+          secuencial y replicable, así como en la utilización de instrumentos
+          estructurados de evaluación.
+        </p>
+
+        <p>
+          La validación aplicada deriva de su utilización en un contexto
+          organizacional real, permitiendo integrar información cualitativa y
+          cuantitativa y traducir el diagnóstico en propuestas estratégicas.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Síntesis estructural del Modelo MEGICMO</title>
+
+        <p>
+          Como resultado de la investigación, el Modelo MEGICMO se
+          consolida como una metodología integrada de ocho fases
+          secuenciales e interrelacionadas para articular diagnóstico,
+          planificación, ejecución, medición y mejora continua.
+        </p>
+
+        <p>
+          Su aporte consiste en integrar enfoques tradicionalmente abordados
+          de forma independiente y proporcionar instrumentos para
+          estandarizar el diagnóstico, vincularlo con la planificación
+          estratégica, traducir la estrategia en indicadores y establecer
+          mecanismos permanentes de seguimiento.
+        </p>
+
+      </sec>
+
+    </sec>
+
+
+    <!-- CONCLUSIONES -->
+
+    <sec sec-type="conclusions">
+
+      <title>Conclusiones</title>
+
+      <p>
+        La investigación permitió desarrollar el Modelo MEGICMO de Gestión
+        Integrada como una metodología orientada a articular la calidad, la
+        mejora continua y la modernización organizacional dentro de un mismo
+        marco metodológico.
+      </p>
+
+      <p>
+        El modelo se construye mediante la adaptación e integración de
+        herramientas y metodologías existentes, reorganizadas en una ruta
+        única que facilita su aplicación práctica en contextos
+        organizacionales.
+      </p>
+
+      <p>
+        La propuesta establece una vinculación directa entre diagnóstico y
+        formulación estratégica, permitiendo que objetivos, iniciativas e
+        indicadores se fundamenten en evidencia y respondan a necesidades
+        reales.
+      </p>
+
+      <p>
+        Finalmente, su estructura adaptable permite su aplicación tanto en
+        organizaciones públicas como privadas y en diferentes niveles de
+        madurez institucional.
+      </p>
+
+    </sec>
+
+  </body>
+
+
+  <!-- ============================================================
+       REFERENCIAS
+       ============================================================ -->
+
+  <back>
+
+    <ref-list>
+
+      <title>Referencias</title>
+
+
+      <ref id="R1">
+        <mixed-citation>
+          Alsuleimani, A., &amp; Kumar, V. (2024).
+          Quality management in the public sector:
+          Enhancing transparency and efficiency.
+          Journal of Public Administration, 12(2), 45–60.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R2">
+        <mixed-citation>
+          Andrade-Girón, L., Marín-Rodríguez, J., Zúñiga-Rojas, E.,
+          Susanibar-Ramírez, F., &amp; Calvo-Rivera, R. (2023).
+          Sistemas de gestión de calidad en educación superior:
+          revisión sistemática.
+          Revista Iberoamericana de Educación Superior, 14(39), 1–15.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R3">
+        <mixed-citation>
+          Chrissis, M. B., Konrad, M., &amp; Shrum, S. (2011).
+          CMMI for development: Guidelines for process integration
+          and product improvement (3rd ed.). Addison-Wesley.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R4">
+        <mixed-citation>
+          Deming, W. E. (1986).
+          Out of the crisis. MIT Press.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R5">
+        <mixed-citation>
+          Dumas, M., La Rosa, M., Mendling, J., &amp; Reijers, H. A.
+          (2018). Fundamentals of business process management
+          (2nd ed.). Springer.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R6">
+        <mixed-citation>
+          Evans, J. R., &amp; Lindsay, W. M. (2020).
+          Managing for quality and performance excellence
+          (11th ed.). Cengage Learning.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R7">
+        <mixed-citation>
+          George, M. L., Rowlands, D., Price, M., &amp; Maxey, J.
+          (2005). The Lean Six Sigma pocket toolbook.
+          McGraw-Hill.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R8">
+        <mixed-citation>
+          Goetsch, D. L., &amp; Davis, S. B. (2021).
+          Quality management for organizational excellence:
+          Introduction to total quality (9th ed.). Pearson.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R9">
+        <mixed-citation>
+          Hammer, M. (2015).
+          What is business process management?
+          Harvard Business Review Press.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R10">
+        <mixed-citation>
+          Harrington, H. J. (1991).
+          Business process improvement:
+          The breakthrough strategy for total quality,
+          productivity, and competitiveness.
+          McGraw-Hill.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R11">
+        <mixed-citation>
+          International Organization for Standardization (ISO).
+          (2015). ISO 9001:2015 Quality management systems —
+          Requirements. ISO.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R12">
+        <mixed-citation>
+          Ishikawa, K. (1985).
+          What is total quality control? The Japanese way.
+          Prentice-Hall.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R13">
+        <mixed-citation>
+          Juran, J. M. (1992).
+          Juran on quality by design.
+          Free Press.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R14">
+        <mixed-citation>
+          Martínez Mendoza, J. (2025).
+          Gestión de calidad ISO 9001 y su relación con la
+          planificación estratégica en educación superior.
+          Revista de Gestión Educativa, 18(2), 25–40.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R15">
+        <mixed-citation>
+          McLean, L. (2017).
+          Predictive analytics and continuous improvement
+          in higher education (Doctoral dissertation).
+          University of Maryland.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R16">
+        <mixed-citation>
+          Object Management Group (OMG). (2019).
+          Business Process Model and Notation (BPMN)
+          Version 2.0.2. OMG.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R17">
+        <mixed-citation>
+          Oakland, J. S. (2014).
+          Total quality management and operational excellence
+          (4th ed.). Routledge.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R18">
+        <mixed-citation>
+          Ortiz Cumpa, J., &amp; Zamora Valladares, R. (2025).
+          Gestión documental en el sector público:
+          transparencia y gobernanza institucional.
+          Revista de Administración Pública, 59(1), 950–970.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R19">
+        <mixed-citation>
+          Quispe, J., Moreno, L., Villoslada, M., &amp; Ruiz, R.
+          (2025). Automatización de procesos mediante BPM y BPMS:
+          impacto en la eficiencia organizacional.
+          Revista Latinoamericana de Sistemas, 10(1), 15–30.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R20">
+        <mixed-citation>
+          Sammour, H., &amp; Al-Balkhi, W. (2024).
+          The role of Kaizen in improving institutional performance.
+          International Journal of Quality &amp; Reliability Management,
+          41(5), 8691–8705.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R21">
+        <mixed-citation>
+          Slack, N., Brandon-Jones, A., &amp; Johnston, R. (2019).
+          Operations management (9th ed.). Pearson.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R22">
+        <mixed-citation>
+          Solano Segura, A. (2026).
+          Propuesta de un plan estratégico para la gestión de la calidad,
+          mejora continua y modernización institucional en la Oficina de
+          Distribución y Ventas (OFIDIVE) de la Universidad Estatal a
+          Distancia (UNED) [TFG maestría, Universidad de las Ciencias
+          y el Arte].
+        </mixed-citation>
+      </ref>
+
+    </ref-list>
+
+  </back>
+
+</article>
+

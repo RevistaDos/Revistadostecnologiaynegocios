@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE article SYSTEM
+"https://jats.nlm.nih.gov/archiving/1.4/JATS-archivearticle1-4.dtd">
+
+<article
+    article-type="research-article"
+    xml:lang="es"
+    dtd-version="1.4"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <front>
+
+    <!-- =========================================================
+         DATOS DE LA REVISTA
+         ========================================================= -->
+
+    <journal-meta>
+
+      <journal-id journal-id-type="publisher-id">
+        dos-tecnologia-y-negocios
+      </journal-id>
+
+      <journal-title-group>
+        <journal-title>DOS Tecnología y Negocios</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">
+          DOS Tec. Neg.
+        </abbrev-journal-title>
+      </journal-title-group>
+
+      <issn pub-type="epub">3091-2121</issn>
+
+      <publisher>
+        <publisher-name>DOS Tecnología y Negocios</publisher-name>
+      </publisher>
+
+    </journal-meta>
+
+
+    <!-- =========================================================
+         DATOS DEL ARTÍCULO
+         ========================================================= -->
+
+    <article-meta>
+
+      <article-id pub-id-type="publisher-id">
+        dos-v2n1-2026-art1
+      </article-id>
+
+      <article-id pub-id-type="doi">
+        10.5281/zenodo.21911809
+      </article-id>
+
+
+      <!-- TÍTULO -->
+
+      <title-group>
+
+        <article-title>
+          Administración del aprendizaje en centros penales de Costa Rica:
+          logística invisible, silencio pedagógico y educación como inversión social
+        </article-title>
+
+        <trans-title-group xml:lang="en">
+          <trans-title>
+            Administration of Learning in Costa Rican Correctional Facilities:
+            Invisible Logistics, Pedagogical Silence, and Education as Social Investment
+          </trans-title>
+        </trans-title-group>
+
+      </title-group>
+
+
+      <!-- =========================================================
+           AUTORÍA
+           ========================================================= -->
+
+      <contrib-group>
+
+        <contrib contrib-type="author">
+
+          <contrib-id contrib-id-type="orcid">
+            https://orcid.org/0009-0001-2498-9437
+          </contrib-id>
+
+          <name>
+            <surname>Acuña Vargas</surname>
+            <given-names>Carlos Bernal</given-names>
+          </name>
+
+          <email>cacuna@uned.ac.cr</email>
+
+          <aff>
+            <institution>Universidad Estatal a Distancia</institution>
+            <country country="CR">Costa Rica</country>
+          </aff>
+
+        </contrib>
+
+      </contrib-group>
+
+
+      <!-- =========================================================
+           DATOS DE PUBLICACIÓN
+           ========================================================= -->
+
+      <pub-date pub-type="epub">
+        <day>12</day>
+        <month>08</month>
+        <year>2026</year>
+      </pub-date>
+
+      <volume>2</volume>
+
+      <issue>1</issue>
+
+      <fpage>6</fpage>
+
+      <lpage>19</lpage>
+
+
+      <!-- =========================================================
+           HISTORIAL EDITORIAL
+           ========================================================= -->
+
+      <history>
+
+        <date date-type="received">
+          <day>29</day>
+          <month>04</month>
+          <year>2026</year>
+        </date>
+
+        <date date-type="rev-recd">
+          <day>10</day>
+          <month>06</month>
+          <year>2026</year>
+        </date>
+
+        <date date-type="accepted">
+          <day>22</day>
+          <month>06</month>
+          <year>2026</year>
+        </date>
+
+      </history>
+
+
+      <!-- =========================================================
+           LICENCIA
+           ========================================================= -->
+
+      <permissions>
+
+        <copyright-statement>
+          © 2026 Revista DOS Tecnología y Negocios
+        </copyright-statement>
+
+        <copyright-year>2026</copyright-year>
+
+        <copyright-holder>
+          DOS Tecnología y Negocios
+        </copyright-holder>
+
+        <license
+            license-type="open-access"
+            xlink:href="https://creativecommons.org/licenses/by/4.0/">
+
+          <license-p>
+            Todos los contenidos se distribuyen bajo una licencia
+            Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
+          </license-p>
+
+        </license>
+
+      </permissions>
+
+
+      <!-- =========================================================
+           RESUMEN EN ESPAÑOL
+           ========================================================= -->
+
+      <abstract xml:lang="es">
+
+        <p>
+          Este artículo analiza la administración del aprendizaje en centros
+          penales de Costa Rica, considerando la tensión entre educación,
+          seguridad y restricción institucional. Desde un enfoque
+          crítico-reflexivo, se examina cómo la logística invisible condiciona
+          el acceso a materiales, evaluaciones y recursos académicos en
+          contextos donde los procesos educativos dependen de permisos,
+          controles y tiempos administrativos. Asimismo, se aborda el silencio
+          pedagógico como una característica central de la educación en
+          privación de libertad, donde la ausencia de inmediatez exige mayor
+          autonomía estudiantil y un diseño didáctico más preciso. Finalmente,
+          se plantea la educación penitenciaria como una inversión social
+          orientada a la reinserción, la reducción de la reincidencia y la
+          construcción de nuevas oportunidades de vida.
+        </p>
+
+      </abstract>
+
+
+      <!-- PALABRAS CLAVE -->
+
+      <kwd-group
+          kwd-group-type="author-keywords"
+          xml:lang="es">
+
+        <kwd>educación penitenciaria</kwd>
+        <kwd>centros penales</kwd>
+        <kwd>logística invisible</kwd>
+        <kwd>silencio pedagógico</kwd>
+        <kwd>reinserción social</kwd>
+        <kwd>educación a distancia</kwd>
+
+      </kwd-group>
+
+
+      <!-- =========================================================
+           ABSTRACT
+           ========================================================= -->
+
+      <trans-abstract xml:lang="en">
+
+        <p>
+          This article analyzes the administration of learning in correctional
+          facilities in Costa Rica, considering the tension between education,
+          security, and institutional restriction. From a critical-reflective
+          approach, it examines how invisible logistics conditions access to
+          materials, assessments, and academic resources in contexts where
+          educational processes depend on permissions, controls, and
+          administrative timelines. It also addresses pedagogical silence as a
+          central feature of education in contexts of deprivation of liberty,
+          where the absence of immediacy requires greater student autonomy and
+          more precise instructional design. Finally, prison education is
+          presented as a social investment aimed at reintegration, the reduction
+          of recidivism, and the construction of new life opportunities.
+        </p>
+
+      </trans-abstract>
+
+
+      <!-- KEYWORDS -->
+
+      <kwd-group
+          kwd-group-type="author-keywords"
+          xml:lang="en">
+
+        <kwd>prison education</kwd>
+        <kwd>correctional facilities</kwd>
+        <kwd>invisible logistics</kwd>
+        <kwd>pedagogical silence</kwd>
+        <kwd>social reintegration</kwd>
+        <kwd>distance education</kwd>
+
+      </kwd-group>
+
+
+      <!-- =========================================================
+           IDENTIFICADORES Y VERSIONES DEL ARTÍCULO
+           ========================================================= -->
+
+      <self-uri
+          content-type="doi"
+          xlink:href="https://doi.org/10.5281/zenodo.21911809"/>
+
+      <self-uri
+          content-type="html"
+          xlink:href="https://www.dostecnologiaynegocios.com/2026/08/administracion-del-aprendizaje-en.html"/>
+
+      <self-uri
+          content-type="pdf"
+          xlink:href="https://raw.githubusercontent.com/RevistaDos/Revistadostecnologiaynegocios/main/1.%20Administraci%C3%B3n%20del%20aprendizaje%20en%20centros%20penales%20de%20Costa%20Rica%20log%C3%ADstica%20invisible%2C%20silencio%20pedag%C3%B3gico%20y%20educaci%C3%B3n%20como%20inversi%C3%B3n%20social%20Revista%20DOS%20Tecnolog%C3%ADa%20y%20Negocios%20Vol%202%2C%20N%C3%BAmero%201%202026-6-19.pdf"/>
+
+
+      <!-- =========================================================
+           METADATOS EDITORIALES ADICIONALES
+           ========================================================= -->
+
+      <custom-meta-group>
+
+        <custom-meta>
+          <meta-name>article-subtype</meta-name>
+          <meta-value>Ensayo académico crítico-reflexivo</meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>methodological-approach</meta-name>
+          <meta-value>Cualitativo</meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>journal-location</meta-name>
+          <meta-value>San José, Costa Rica</meta-value>
+        </custom-meta>
+
+      </custom-meta-group>
+
+    </article-meta>
+
+  </front>
+
+
+  <!-- ============================================================
+       CUERPO DEL ARTÍCULO
+       ============================================================ -->
+
+  <body>
+
+
+    <!-- INTRODUCCIÓN -->
+
+    <sec sec-type="intro">
+
+      <title>Introducción</title>
+
+      <p>
+        El artículo examina las particularidades de la administración del
+        aprendizaje en centros penales de Costa Rica, donde los procesos
+        educativos se desarrollan bajo protocolos de seguridad, restricciones
+        de movilidad, limitaciones tecnológicas y tiempos administrativos que
+        condicionan el acceso al conocimiento.
+      </p>
+
+      <p>
+        El análisis se articula alrededor de tres ejes principales: la logística
+        invisible del aprendizaje, el silencio pedagógico y la educación como
+        inversión social, considerando la relación entre la Universidad Estatal
+        a Distancia y el sistema penitenciario costarricense.
+      </p>
+
+    </sec>
+
+
+    <!-- MARCO TEÓRICO -->
+
+    <sec sec-type="background">
+
+      <title>Marco teórico</title>
+
+      <p>
+        La educación en contextos de privación de libertad es analizada como
+        un derecho fundamental y como un componente de los procesos de
+        reinserción social. El artículo relaciona esta perspectiva con aportes
+        provenientes de la pedagogía crítica, la administración, la gestión de
+        operaciones y los derechos humanos.
+      </p>
+
+      <p>
+        El marco conceptual aborda la tensión entre la racionalidad educativa,
+        orientada al acceso y la formación, y la racionalidad penitenciaria,
+        orientada al control, la prevención de riesgos y la seguridad.
+      </p>
+
+    </sec>
+
+
+    <!-- METODOLOGÍA -->
+
+    <sec sec-type="methods">
+
+      <title>Metodología</title>
+
+      <p>
+        El artículo se desarrolla bajo un enfoque cualitativo, de tipo ensayo
+        académico crítico-reflexivo, sustentado en el análisis de la experiencia
+        profesional del autor en el ámbito de la educación a distancia en
+        centros penales.
+      </p>
+
+      <p>
+        Metodológicamente, el trabajo utiliza la sistematización de la
+        experiencia como proceso de interpretación reflexiva de la práctica,
+        complementada con una revisión documental de literatura académica,
+        normativa internacional e informes especializados.
+      </p>
+
+      <p>
+        El análisis se organiza alrededor de categorías como eficiencia,
+        fricción institucional, logística del aprendizaje, silencio pedagógico,
+        acceso educativo, reinserción social y educación como inversión pública.
+      </p>
+
+    </sec>
+
+
+    <!-- DISCUSIÓN -->
+
+    <sec sec-type="discussion">
+
+      <title>Discusión</title>
+
+
+      <sec>
+
+        <title>
+          ¿Estamos gestionando educación o administrando límites?
+          La logística invisible del aprendizaje en centros penales
+        </title>
+
+        <p>
+          Se analiza la compleja articulación de procesos administrativos,
+          logísticos y de seguridad necesarios para que libros, evaluaciones,
+          dispositivos y recursos académicos lleguen a las personas privadas
+          de libertad.
+        </p>
+
+        <p>
+          La fricción institucional se interpreta no necesariamente como una
+          falla del sistema, sino como una condición derivada de los objetivos de
+          seguridad y control propios del entorno penitenciario. Esto obliga a
+          reconsiderar los conceptos tradicionales de eficiencia, logística y
+          planificación.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>
+          La administración del silencio: enseñar, aprender y persistir
+          cuando la inmediatez desaparece
+        </title>
+
+        <p>
+          La ausencia de comunicación inmediata transforma la relación entre
+          tutoría, materiales didácticos y autonomía del estudiante. Cuando las
+          consultas y retroalimentaciones pueden tardar semanas, el diseño
+          didáctico adquiere una importancia central.
+        </p>
+
+        <p>
+          El artículo plantea que los materiales deben anticipar dudas,
+          proporcionar instrucciones especialmente claras y asumir funciones
+          que, en otros contextos, serían cubiertas mediante interacción directa
+          con docentes y plataformas digitales.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>
+          ¿Invertir en personas o seguir pagando por sus consecuencias?
+          El verdadero costo de ignorar la educación en el sistema penitenciario
+        </title>
+
+        <p>
+          La educación penitenciaria se analiza como una inversión social
+          vinculada con la reinserción, la reducción de la reincidencia y la
+          generación de nuevas oportunidades para las personas privadas de
+          libertad.
+        </p>
+
+        <p>
+          Desde esta perspectiva, la educación no constituye únicamente una
+          actividad académica, sino una herramienta capaz de fortalecer
+          capacidades, modificar trayectorias personales y contribuir a la
+          reintegración social posterior al encarcelamiento.
+        </p>
+
+      </sec>
+
+    </sec>
+
+
+    <!-- CONCLUSIONES -->
+
+    <sec sec-type="conclusions">
+
+      <title>Conclusiones</title>
+
+      <p>
+        La administración del aprendizaje en centros penales no puede
+        comprenderse exclusivamente desde una noción tradicional de eficiencia
+        basada en rapidez, reducción de costos u optimización de tiempos.
+        La fricción forma parte de las condiciones estructurales de un entorno
+        regulado por protocolos de seguridad y restricciones institucionales.
+      </p>
+
+      <p>
+        La logística invisible demuestra que el acceso educativo depende no
+        solo de programas académicos y materiales didácticos, sino también de
+        permisos, revisiones, espacios físicos, coordinación interinstitucional,
+        tiempos y decisiones administrativas.
+      </p>
+
+      <p>
+        El silencio pedagógico constituye igualmente una dimensión central:
+        la falta de inmediatez modifica la mediación educativa y aumenta la
+        importancia del diseño didáctico y de la autonomía estudiantil.
+      </p>
+
+      <p>
+        Finalmente, la educación penitenciaria es planteada como una inversión
+        social capaz de fortalecer capacidades, favorecer la reintegración y
+        reducir la probabilidad de reincidencia.
+      </p>
+
+    </sec>
+
+  </body>
+
+
+  <!-- ============================================================
+       REFERENCIAS
+       ============================================================ -->
+
+  <back>
+
+    <ref-list>
+
+      <title>Referencias</title>
+
+
+      <ref id="R1">
+        <mixed-citation>
+          Cerda-Jara, M., Elster, A., &amp; Harding, D. J. (2020).
+          Criminal record stigma in the college-educated labor market.
+          Institute for Research on Labor and Employment,
+          University of California, Berkeley.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R2">
+        <mixed-citation>
+          Davis, L. M., Bozick, R., Steele, J. L., Saunders, J., &amp;
+          Miles, J. N. V. (2013). Evaluating the effectiveness of
+          correctional education: A meta-analysis of programs that provide
+          education to incarcerated adults. RAND Corporation.
+          https://www.rand.org/pubs/research_reports/RR266.html
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R3">
+        <mixed-citation>
+          Fisher, D. P., Brotto, G., Lim, I., &amp; Southam, C. (2025).
+          The impact of timely formative feedback on university student
+          motivation. Assessment &amp; Evaluation in Higher Education.
+          https://doi.org/10.1080/02602938.2025.2449891
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R4">
+        <mixed-citation>
+          Foucault, M. (2002). Vigilar y castigar: Nacimiento de la prisión.
+          Siglo XXI Editores. (Obra original publicada en 1975).
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R5">
+        <mixed-citation>
+          Freire, P. (2005). Pedagogía del oprimido.
+          Siglo XXI Editores. (Obra original publicada en 1970).
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R6">
+        <mixed-citation>
+          Hancock, V. (2010). Essential, desirable or optional?
+          Making distance e-learning courses available to those without
+          internet access. European Journal of Open, Distance and E-Learning.
+          https://eric.ed.gov/?id=EJ914968
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R7">
+        <mixed-citation>
+          Hawley, J., Murphy, I., &amp; Souto-Otero, M. (2013).
+          Prison education and training in Europe: Current state-of-play
+          and challenges. Publications Office of the European Union.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R8">
+        <mixed-citation>
+          Jara, O. (2012). La sistematización de experiencias:
+          Práctica y teoría para otros mundos posibles.
+          Centro de Estudios y Publicaciones Alforja.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R9">
+        <mixed-citation>
+          Moore, M. G. (1993). Theory of transactional distance.
+          En D. Keegan (Ed.), Theoretical principles of distance education
+          (pp. 22–38). Routledge.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R10">
+        <mixed-citation>
+          Pike, A., &amp; Adams, A. (2012).
+          Digital exclusion or learning exclusion? An ethnographic study
+          of adult male distance learners in English prisons.
+          Research in Learning Technology, 20.
+          https://doi.org/10.3402/rlt.v20i0.18620
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R11">
+        <mixed-citation>
+          Porter, M. E. (1985).
+          Competitive advantage: Creating and sustaining superior performance.
+          Free Press.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R12">
+        <mixed-citation>
+          Prison Policy Initiative. (2018).
+          Out of prison &amp; out of work:
+          Unemployment among formerly incarcerated people.
+          https://www.prisonpolicy.org/reports/outofwork.html
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R13">
+        <mixed-citation>
+          Prison Policy Initiative. (2022, 8 de febrero).
+          New data on formerly incarcerated people’s employment reveal
+          labor market injustices.
+          https://www.prisonpolicy.org/blog/2022/02/08/employment/
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R14">
+        <mixed-citation>
+          Slack, N., Chambers, S., &amp; Johnston, R. (2010).
+          Operations management (6th ed.). Pearson.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R15">
+        <mixed-citation>
+          Universidad Estatal a Distancia. (2021, 18 de noviembre).
+          UNED y Ministerio de Justicia y Paz renuevan convenio que garantiza
+          la educación superior en centros penales de Costa Rica.
+          Acontecer UNED.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R16">
+        <mixed-citation>
+          Universidad Estatal a Distancia. (2026).
+          Estudiantes privados de libertad.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R17">
+        <mixed-citation>
+          UNESCO. (2015).
+          Education in prison: A basic right and an essential tool
+          for social reintegration.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R18">
+        <mixed-citation>
+          UNESCO Institute for Lifelong Learning. (s. f.).
+          Prison education.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R19">
+        <mixed-citation>
+          UNESCO Institute for Lifelong Learning. (s. f.).
+          Prison education case studies.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R20">
+        <mixed-citation>
+          United Nations. (2015).
+          United Nations Standard Minimum Rules for the Treatment of Prisoners
+          (the Nelson Mandela Rules).
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R21">
+        <mixed-citation>
+          United Nations Office on Drugs and Crime. (s. f.).
+          Prisoner rehabilitation.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R22">
+        <mixed-citation>
+          Vera Institute of Justice. (2023).
+          The impacts of college-in-prison participation on safety and
+          employment in New York State.
+        </mixed-citation>
+      </ref>
+
+
+    </ref-list>
+
+  </back>
+
+</article>

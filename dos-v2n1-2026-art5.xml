@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE article SYSTEM
+"https://jats.nlm.nih.gov/archiving/1.4/JATS-archivearticle1-4.dtd">
+
+<article
+    article-type="research-article"
+    xml:lang="es"
+    dtd-version="1.4"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <front>
+
+    <!-- =========================================================
+         DATOS DE LA REVISTA
+         ========================================================= -->
+
+    <journal-meta>
+
+      <journal-id journal-id-type="publisher-id">
+        dos-tecnologia-y-negocios
+      </journal-id>
+
+      <journal-title-group>
+        <journal-title>DOS Tecnología y Negocios</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">
+          DOS Tec. Neg.
+        </abbrev-journal-title>
+      </journal-title-group>
+
+      <issn pub-type="epub">3091-2121</issn>
+
+      <publisher>
+        <publisher-name>DOS Tecnología y Negocios</publisher-name>
+      </publisher>
+
+    </journal-meta>
+
+
+    <!-- =========================================================
+         DATOS DEL ARTÍCULO
+         ========================================================= -->
+
+    <article-meta>
+
+      <article-id pub-id-type="publisher-id">
+        dos-v2n1-2026-art5
+      </article-id>
+
+      <article-id pub-id-type="doi">
+        10.5281/zenodo.21912006
+      </article-id>
+
+
+      <!-- TÍTULOS -->
+
+      <title-group>
+
+        <article-title>
+          Integración de inteligencia artificial en agencias aduanales
+          privadas: factores organizacionales, barreras y una ruta
+          de adopción gradual
+        </article-title>
+
+        <trans-title-group xml:lang="en">
+          <trans-title>
+            Artificial Intelligence Integration in Private Customs Agencies:
+            Organizational Factors, Barriers, and a Gradual Adoption Path
+          </trans-title>
+        </trans-title-group>
+
+      </title-group>
+
+
+      <!-- =========================================================
+           AUTORÍA
+           ========================================================= -->
+
+      <contrib-group>
+
+        <contrib contrib-type="author">
+
+          <contrib-id contrib-id-type="orcid">
+            https://orcid.org/0009-0003-3076-6699
+          </contrib-id>
+
+          <name>
+            <surname>Murillo Boza</surname>
+            <given-names>Rodrigo Josué</given-names>
+          </name>
+
+          <email>rmurillo@uned.ac.cr</email>
+
+          <aff>
+            <institution>Universidad Estatal a Distancia</institution>
+            <country country="CR">Costa Rica</country>
+          </aff>
+
+        </contrib>
+
+      </contrib-group>
+
+
+      <!-- =========================================================
+           DATOS DE PUBLICACIÓN
+           ========================================================= -->
+
+      <pub-date pub-type="epub">
+        <day>12</day>
+        <month>08</month>
+        <year>2026</year>
+      </pub-date>
+
+      <volume>2</volume>
+
+      <issue>1</issue>
+
+      <fpage>53</fpage>
+
+      <lpage>68</lpage>
+
+
+      <!-- =========================================================
+           HISTORIAL EDITORIAL
+           ========================================================= -->
+
+      <history>
+
+        <date date-type="received">
+          <day>07</day>
+          <month>08</month>
+          <year>2026</year>
+        </date>
+
+        <date date-type="rev-recd">
+          <day>12</day>
+          <month>08</month>
+          <year>2026</year>
+        </date>
+
+        <date date-type="accepted">
+          <day>12</day>
+          <month>08</month>
+          <year>2026</year>
+        </date>
+
+      </history>
+
+
+      <!-- =========================================================
+           LICENCIA
+           ========================================================= -->
+
+      <permissions>
+
+        <copyright-statement>
+          © 2026 Revista DOS Tecnología y Negocios
+        </copyright-statement>
+
+        <copyright-year>2026</copyright-year>
+
+        <copyright-holder>
+          DOS Tecnología y Negocios
+        </copyright-holder>
+
+        <license
+            license-type="open-access"
+            xlink:href="https://creativecommons.org/licenses/by/4.0/">
+
+          <license-p>
+            Todos los contenidos se distribuyen bajo una licencia
+            Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
+          </license-p>
+
+        </license>
+
+      </permissions>
+
+
+      <!-- =========================================================
+           RESUMEN
+           ========================================================= -->
+
+      <abstract xml:lang="es">
+
+        <p>
+          La integración de inteligencia artificial (IA) en las agencias
+          aduanales privadas suele abordarse desde la selección de
+          herramientas, cuando su viabilidad depende también de condiciones
+          organizacionales previas. Este artículo analiza, a partir de un
+          estudio de caso cualitativo en una agencia aduanal privada, los
+          factores que facilitan y dificultan una adopción sostenible de IA
+          en procesos operativos. La investigación tuvo alcance exploratorio
+          y descriptivo; utilizó entrevistas semiestructuradas, revisión
+          documental, análisis de contenido, matrices de sistematización y
+          comparación, triangulación, diagrama de Ishikawa y mapa de
+          procesos. Los hallazgos muestran una relación entre mayor
+          comprensión de la IA y mayor apertura al cambio; además,
+          evidencian barreras culturales, técnicas, humanas, organizacionales
+          y comunicacionales que se refuerzan entre sí. También se
+          identificaron dependencias manuales, duplicidad de información,
+          fragmentación de sistemas y brechas de trazabilidad en procesos
+          como gestión documental, elaboración y transmisión de declaraciones
+          y coordinación logística. La preparación organizacional se valoró
+          como medio-baja, con una fortaleza relativa en la disposición del
+          personal y una debilidad principal en la dimensión técnica.
+          A partir de estos resultados se propone una ruta transferible de
+          ocho etapas que articula diagnóstico, preparación del personal,
+          priorización de procesos, fortalecimiento de capacidades, piloto,
+          evaluación con indicadores, mejora continua y ampliación progresiva.
+        </p>
+
+      </abstract>
+
+
+      <!-- PALABRAS CLAVE -->
+
+      <kwd-group
+          kwd-group-type="author-keywords"
+          xml:lang="es">
+
+        <kwd>inteligencia artificial</kwd>
+        <kwd>agencias aduanales</kwd>
+        <kwd>gestión del cambio</kwd>
+        <kwd>transformación digital</kwd>
+        <kwd>preparación organizacional</kwd>
+
+      </kwd-group>
+
+
+      <!-- =========================================================
+           ABSTRACT
+           ========================================================= -->
+
+      <trans-abstract xml:lang="en">
+
+        <p>
+          Artificial intelligence (AI) integration in private customs
+          agencies is often approached as a matter of tool selection,
+          even though its feasibility also depends on prior organizational
+          conditions. Based on a qualitative case study conducted in a
+          private customs agency, this article examines the factors that
+          enable or hinder sustainable AI adoption in operational processes.
+          The study was exploratory and descriptive and used semi-structured
+          interviews, documentary review, content analysis, systematization
+          and comparison matrices, triangulation, an Ishikawa diagram,
+          and process mapping. Findings show that greater understanding of
+          AI is associated with greater openness to change. They also reveal
+          cultural, technical, human, organizational, and communication
+          barriers that reinforce one another. Manual dependencies,
+          duplicated information, fragmented systems, and traceability gaps
+          were identified in document management, customs declaration
+          preparation and transmission, and logistics coordination.
+          Organizational readiness was assessed as medium-low, with a
+          relative strength in employees' willingness to learn and a major
+          weakness in the technical dimension. Drawing on these results,
+          the article proposes an eight-stage transferable pathway that
+          connects organizational diagnosis, workforce preparation, process
+          prioritization, capability building, pilot implementation,
+          indicator-based evaluation, continuous improvement, and
+          progressive scaling.
+        </p>
+
+      </trans-abstract>
+
+
+      <!-- KEYWORDS -->
+
+      <kwd-group
+          kwd-group-type="author-keywords"
+          xml:lang="en">
+
+        <kwd>artificial intelligence</kwd>
+        <kwd>customs agencies</kwd>
+        <kwd>change management</kwd>
+        <kwd>digital transformation</kwd>
+        <kwd>organizational readiness</kwd>
+
+      </kwd-group>
+
+
+      <!-- =========================================================
+           IDENTIFICADORES Y VERSIONES
+           ========================================================= -->
+
+      <self-uri
+          content-type="doi"
+          xlink:href="https://doi.org/10.5281/zenodo.21912006"/>
+
+      <self-uri
+          content-type="html"
+          xlink:href="https://www.dostecnologiaynegocios.com/2026/08/integracion-de-inteligencia-artificial.html"/>
+
+      <self-uri
+          content-type="pdf"
+          xlink:href="https://raw.githubusercontent.com/RevistaDos/Revistadostecnologiaynegocios/main/5.%20Integraci%C3%B3n%20de%20inteligencia%20artificial%20en%20agencias%20aduanales%20privadas%20factores%20organizacionales%2C%20barreras%20y%20una%20ruta%20de%20adopci%C3%B3n%20gradual%20Revista%20DOS%20Tecnolog%C3%ADa%20y%20Negocios%20Vol%202%2C%20N%C3%BAmero%201%202026-34-52.pdf"/>
+
+
+      <!-- =========================================================
+           METADATOS EDITORIALES ADICIONALES
+           ========================================================= -->
+
+      <custom-meta-group>
+
+        <custom-meta>
+          <meta-name>article-subtype</meta-name>
+          <meta-value>
+            Estudio de caso con propuesta aplicada
+          </meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>methodological-approach</meta-name>
+          <meta-value>Cualitativo</meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>research-scope</meta-name>
+          <meta-value>Exploratorio y descriptivo</meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>research-design</meta-name>
+          <meta-value>Estudio de caso organizacional</meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>transferability</meta-name>
+          <meta-value>
+            Transferencia analítica y contextual, no estadística
+          </meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>study-population</meta-name>
+          <meta-value>100 personas</meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>effective-responses</meta-name>
+          <meta-value>75</meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>organizational-readiness</meta-name>
+          <meta-value>Medio-baja</meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>proposed-model</meta-name>
+          <meta-value>
+            Modelo organizacional para la integración gradual
+            de inteligencia artificial en agencias aduanales privadas
+          </meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>model-strategic-axes</meta-name>
+          <meta-value>4</meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>model-stages</meta-name>
+          <meta-value>8</meta-value>
+        </custom-meta>
+
+        <custom-meta>
+          <meta-name>journal-location</meta-name>
+          <meta-value>San José, Costa Rica</meta-value>
+        </custom-meta>
+
+      </custom-meta-group>
+
+    </article-meta>
+
+  </front>
+
+
+  <!-- ============================================================
+       CUERPO DEL ARTÍCULO
+       ============================================================ -->
+
+  <body>
+
+
+    <!-- INTRODUCCIÓN -->
+
+    <sec sec-type="intro">
+
+      <title>Introducción</title>
+
+      <p>
+        El comercio exterior requiere rapidez de respuesta, exactitud
+        documental, cumplimiento regulatorio y trazabilidad de la información.
+        En este contexto, las agencias aduanales privadas articulan datos
+        provenientes de clientes, transportistas, autoridades y plataformas
+        tecnológicas.
+      </p>
+
+      <p>
+        La incorporación de inteligencia artificial no puede reducirse a la
+        selección de herramientas, debido a que su viabilidad depende de
+        procesos, datos, infraestructura, competencias, cultura, liderazgo
+        y gobernanza.
+      </p>
+
+      <p>
+        El objetivo del artículo es analizar los factores organizacionales
+        que facilitan y dificultan la integración de IA en agencias aduanales
+        privadas y proponer, a partir de un estudio de caso cualitativo,
+        una ruta de adopción gradual transferible a otras organizaciones
+        del sector.
+      </p>
+
+    </sec>
+
+
+    <!-- FUNDAMENTACIÓN TEÓRICA -->
+
+    <sec sec-type="background">
+
+      <title>Fundamentación teórica</title>
+
+
+      <sec>
+
+        <title>
+          Inteligencia artificial y transformación digital en la gestión aduanera
+        </title>
+
+        <p>
+          La inteligencia artificial puede apoyar tareas de reconocimiento
+          de patrones, clasificación, predicción, extracción de información
+          y automatización en ámbitos como revisión documental, análisis
+          de riesgos, clasificación arancelaria, trazabilidad y priorización
+          de expedientes.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Gestión del cambio, cultura y liderazgo</title>
+
+        <p>
+          La incorporación de IA modifica rutinas, responsabilidades y
+          criterios de decisión, por lo que debe gestionarse simultáneamente
+          como cambio tecnológico y organizacional.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>
+          Competencias digitales, comunicación y gestión del conocimiento
+        </title>
+
+        <p>
+          La adopción tecnológica depende de la capacidad del personal
+          para comprender las funciones, límites y responsabilidades
+          asociadas con la IA. La capacitación debe incorporar
+          alfabetización en IA, validación de resultados, seguridad,
+          calidad de datos y gestión de excepciones.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>
+          Procesos, datos e infraestructura como condiciones de adopción
+        </title>
+
+        <p>
+          Antes de automatizar es necesario comprender y ordenar los
+          procesos existentes, identificar responsables, controles,
+          duplicidades, excepciones y calidad de datos.
+        </p>
+
+        <p>
+          El enfoque integra cinco dimensiones interdependientes:
+          personas, procesos, tecnología, cultura y estrategia.
+        </p>
+
+      </sec>
+
+    </sec>
+
+
+    <!-- METODOLOGÍA -->
+
+    <sec sec-type="methods">
+
+      <title>Metodología</title>
+
+      <p>
+        El estudio adoptó un enfoque cualitativo, con alcance exploratorio
+        y descriptivo y diseño de estudio de caso desarrollado en una
+        agencia aduanal privada.
+      </p>
+
+      <p>
+        La organización participante fue anonimizada y la transferencia
+        de resultados se plantea en términos analíticos y contextuales,
+        no estadísticos.
+      </p>
+
+      <p>
+        Se procuró incorporar perspectivas de distintos niveles y funciones
+        relacionadas con actividades administrativas, coordinación,
+        supervisión y ejecución de procesos aduanales.
+      </p>
+
+      <p>
+        Se envió el censo a una población de 100 personas y se obtuvieron
+        75 respuestas efectivas. La información descriptiva fue utilizada
+        como apoyo para identificar tendencias y recurrencias dentro del
+        caso, sin aplicar pruebas estadísticas inferenciales ni desarrollar
+        una fase cuantitativa independiente.
+      </p>
+
+
+      <sec>
+
+        <title>Técnicas e instrumentos</title>
+
+        <p>
+          Las principales técnicas de recolección fueron entrevistas
+          semiestructuradas y revisión documental. Los instrumentos
+          utilizados fueron un guion de entrevista semiestructurada y una
+          ficha de análisis documental.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Tratamiento de la evidencia</title>
+
+        <p>
+          La evidencia se analizó mediante análisis de contenido,
+          matrices de sistematización y comparación, triangulación,
+          diagrama de Ishikawa y mapa de procesos.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Alcance y limitaciones</title>
+
+        <p>
+          La investigación tuvo un alcance diagnóstico y propositivo.
+          No incluyó la implementación de herramientas de IA ni la
+          medición posterior de sus efectos.
+        </p>
+
+      </sec>
+
+    </sec>
+
+
+    <!-- RESULTADOS Y DISCUSIÓN -->
+
+    <sec sec-type="results">
+
+      <title>Resultados y discusión</title>
+
+
+      <sec>
+
+        <title>Conocimiento sobre IA y disposición al cambio</title>
+
+        <p>
+          El estudio identificó niveles no uniformes de conocimiento sobre
+          IA. Las personas que mostraban mayor comprensión de sus
+          aplicaciones tendían a manifestar mayor apertura al cambio,
+          aunque esta relación se interpreta como un patrón del caso y
+          no como prueba causal.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>
+          Barreras interdependientes: cultura, tecnología,
+          personas y comunicación
+        </title>
+
+        <p>
+          Se identificaron barreras organizacionales, culturales, de
+          capacitación, técnicas y comunicacionales que se refuerzan
+          mutuamente.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>
+          Procesos susceptibles de automatización y calidad de datos
+        </title>
+
+        <p>
+          La revisión documental y el mapa de procesos evidenciaron
+          dependencias manuales, transcripciones entre sistemas,
+          duplicidad de datos, validaciones repetitivas y dificultades
+          de trazabilidad en gestión documental, declaraciones y
+          coordinación logística.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Preparación organizacional medio-baja</title>
+
+        <p>
+          La valoración integrada ubicó la preparación organizacional en
+          un nivel medio-bajo. La dimensión humana mostró una fortaleza
+          relativa, mientras que la dimensión técnica constituyó la principal
+          debilidad debido a la fragmentación de sistemas y dependencia
+          de actividades manuales.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Factores facilitadores para la integración de IA</title>
+
+        <p>
+          Entre los principales facilitadores se identificaron la disposición
+          del personal para aprender, el conocimiento operativo especializado,
+          la posibilidad de priorizar procesos repetitivos y controlables,
+          el desarrollo de mecanismos de gobernanza y la orientación hacia
+          la mejora continua.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Factores que dificultan la integración</title>
+
+        <p>
+          Las dificultades se agrupan en barreras humanas y culturales,
+          brechas de competencias digitales, fragmentación técnica,
+          problemas de calidad y disponibilidad de datos y ausencia de
+          mecanismos sólidos de gobernanza y estrategia.
+        </p>
+
+      </sec>
+
+    </sec>
+
+
+    <!-- MODELO PROPUESTO -->
+
+    <sec>
+
+      <title>
+        Modelo propuesto para la integración organizacional gradual de IA
+      </title>
+
+      <p>
+        La propuesta constituye el principal aporte aplicado del estudio
+        y busca establecer las condiciones organizacionales necesarias
+        para incorporar inteligencia artificial con control, trazabilidad
+        y capacidad de aprendizaje.
+      </p>
+
+      <p>
+        El modelo se estructura mediante cuatro ejes transversales y una
+        ruta operativa de ocho etapas.
+      </p>
+
+
+      <!-- CUATRO EJES -->
+
+      <sec>
+
+        <title>Arquitectura del modelo: cuatro ejes estratégicos</title>
+
+
+        <sec>
+          <title>Eje 1: Gobernanza y gestión del cambio</title>
+          <p>
+            Define patrocinio gerencial, responsables, reglas de decisión,
+            comunicación interna, gestión de riesgos y mecanismos de
+            seguimiento.
+          </p>
+        </sec>
+
+
+        <sec>
+          <title>Eje 2: Protocolos operativos e integración gradual</title>
+          <p>
+            Busca documentar, estandarizar e integrar procesos, datos,
+            controles y excepciones antes de automatizar.
+          </p>
+        </sec>
+
+
+        <sec>
+          <title>Eje 3: Competencias digitales y capacitación</title>
+          <p>
+            Desarrolla rutas de aprendizaje según rol, formación en IA,
+            calidad de datos, validación, seguridad y gestión de excepciones.
+          </p>
+        </sec>
+
+
+        <sec>
+          <title>Eje 4: Monitoreo, evaluación y mejora continua</title>
+          <p>
+            Incorpora indicadores, líneas base, seguimiento, lecciones
+            aprendidas y acciones correctivas antes del escalamiento.
+          </p>
+        </sec>
+
+      </sec>
+
+
+      <!-- OCHO ETAPAS -->
+
+      <sec>
+
+        <title>Ruta práctica de ocho etapas</title>
+
+
+        <sec>
+          <title>Etapa 1: Diagnóstico organizacional</title>
+          <p>
+            Establece una línea base mediante el mapeo de procesos,
+            sistemas, datos, roles, competencias, barreras y riesgos.
+          </p>
+        </sec>
+
+
+        <sec>
+          <title>Etapa 2: Preparación del personal</title>
+          <p>
+            Busca reducir incertidumbre, comunicar propósito, explicar
+            usos y límites de la IA y construir comprensión compartida.
+          </p>
+        </sec>
+
+
+        <sec>
+          <title>Etapa 3: Selección de procesos prioritarios</title>
+          <p>
+            Prioriza casos de uso de acuerdo con repetitividad, volumen,
+            calidad de datos, impacto, riesgo y capacidad de supervisión.
+          </p>
+        </sec>
+
+
+        <sec>
+          <title>Etapa 4: Fortalecimiento de capacidades</title>
+          <p>
+            Documenta y estandariza procesos, depura datos, desarrolla
+            integraciones mínimas, forma al personal y define controles.
+          </p>
+        </sec>
+
+
+        <sec>
+          <title>Etapa 5: Proyecto piloto</title>
+          <p>
+            Prueba la solución en un alcance limitado, reversible y bajo
+            supervisión humana, registrando desempeño e incidencias.
+          </p>
+        </sec>
+
+
+        <sec>
+          <title>Etapa 6: Evaluación mediante indicadores</title>
+          <p>
+            Compara los resultados con la línea base para determinar si
+            existe valor operativo sin debilitar el control.
+          </p>
+        </sec>
+
+
+        <sec>
+          <title>Etapa 7: Mejora continua</title>
+          <p>
+            Ajusta procesos, datos, capacitación, reglas y configuración
+            antes de ampliar el alcance.
+          </p>
+        </sec>
+
+
+        <sec>
+          <title>Etapa 8: Ampliación progresiva</title>
+          <p>
+            Extiende la solución únicamente cuando existen condiciones
+            técnicas, humanas y de gobernanza demostradas.
+          </p>
+        </sec>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Criterios para seleccionar procesos y casos de uso</title>
+
+        <p>
+          La selección debe comenzar por el problema operativo y no por
+          la herramienta. Deben valorarse frecuencia, volumen, tiempo,
+          recurrencia de errores, disponibilidad y calidad de datos,
+          riesgo regulatorio y capacidad de supervisión humana.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Gobernanza, responsabilidades y control humano</title>
+
+        <p>
+          La gobernanza debe establecer derechos de decisión,
+          responsabilidades, reglas de uso, mecanismos de revisión humana,
+          controles de acceso, gestión de excepciones y procedimientos
+          ante errores o fallos.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Diseño del piloto y puertas de decisión</title>
+
+        <p>
+          El modelo incorpora cuatro puertas de decisión: antes del piloto,
+          durante el piloto, al cierre y antes del escalamiento. Estas
+          permiten reducir, detener, ajustar o ampliar la iniciativa según
+          evidencia y tolerancia al riesgo.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>Sistema de indicadores para seguimiento y aprendizaje</title>
+
+        <p>
+          El seguimiento contempla cuatro perspectivas: operativa,
+          humana, técnica y de datos y control. Los indicadores deben
+          contar con definición, fuente, responsable, periodicidad y
+          umbral de decisión.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>
+          Articulación entre personas, procesos, tecnología,
+          cultura y estrategia
+        </title>
+
+        <p>
+          La propuesta articula cinco dimensiones interdependientes:
+          personas, procesos, tecnología, cultura y estrategia, entendiendo
+          que la IA genera capacidad organizacional únicamente cuando
+          estas dimensiones se conectan.
+        </p>
+
+      </sec>
+
+
+      <sec>
+
+        <title>
+          Alcance, beneficios esperados y condiciones de transferibilidad
+        </title>
+
+        <p>
+          Los beneficios potenciales incluyen reducción de reprocesos,
+          mayor trazabilidad, consistencia documental, fortalecimiento de
+          competencias digitales y decisiones apoyadas en datos. Estos
+          resultados se presentan como beneficios esperados y no como
+          efectos garantizados.
+        </p>
+
+      </sec>
+
+    </sec>
+
+
+    <!-- CONCLUSIONES -->
+
+    <sec sec-type="conclusions">
+
+      <title>Conclusiones</title>
+
+      <p>
+        La integración de inteligencia artificial en agencias aduanales
+        privadas debe abordarse como una transformación organizacional
+        y no únicamente como una adquisición tecnológica.
+      </p>
+
+      <p>
+        El estudio evidencia la interdependencia entre conocimiento,
+        cultura, competencias, procesos, datos, infraestructura,
+        comunicación y gobernanza.
+      </p>
+
+      <p>
+        La adopción debe comenzar por procesos priorizados,
+        documentados y medibles, utilizando pilotos que permitan aprender,
+        corregir y escalar únicamente cuando exista evidencia suficiente.
+      </p>
+
+      <p>
+        La preparación medio-baja observada en el caso respalda una
+        estrategia gradual basada en diagnosticar, preparar, priorizar,
+        fortalecer, pilotear, medir, mejorar y escalar.
+      </p>
+
+    </sec>
+
+
+    <!-- RECOMENDACIONES -->
+
+    <sec>
+
+      <title>Recomendaciones</title>
+
+      <p>
+        Se recomienda comenzar con un diagnóstico de preparación
+        organizacional, seleccionar uno o dos procesos prioritarios,
+        establecer una estructura mínima de gobernanza y desarrollar
+        capacitación diferenciada según roles.
+      </p>
+
+      <p>
+        Los procesos deben documentarse y estandarizarse y las fuentes
+        de información deben depurarse antes de alimentar
+        automatizaciones.
+      </p>
+
+      <p>
+        Los proyectos piloto deben contar con línea base, indicadores,
+        criterios de aceptación y mecanismos de mejora continua antes
+        de cualquier ampliación.
+      </p>
+
+    </sec>
+
+  </body>
+
+
+  <!-- ============================================================
+       REFERENCIAS
+       ============================================================ -->
+
+  <back>
+
+    <ref-list>
+
+      <title>Referencias</title>
+
+
+      <ref id="R1">
+        <mixed-citation>
+          Comisión Económica para América Latina y el Caribe. (2021).
+          Datos y hechos sobre la transformación digital
+          (LC/TS.2021/20). CEPAL.
+          https://repositorio.cepal.org/handle/11362/46606
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R2">
+        <mixed-citation>
+          Creswell, J. W., &amp; Poth, C. N. (2023).
+          Qualitative inquiry and research design:
+          Choosing among five approaches (5th ed.).
+          SAGE Publications.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R3">
+        <mixed-citation>
+          Flick, U. (2023).
+          Introducción a la investigación cualitativa (7.ª ed.).
+          Morata.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R4">
+        <mixed-citation>
+          Grainger, A. (2024).
+          Customs tariff classification and the use of assistive
+          technologies. World Customs Journal, 18(1), 3–31.
+          https://doi.org/10.55596/001c.116525
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R5">
+        <mixed-citation>
+          Hiatt, J. (2006).
+          ADKAR: A model for change in business,
+          government and our community. Prosci.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R6">
+        <mixed-citation>
+          Kotter, J. P. (2014).
+          Accelerate: Building strategic agility for a faster-moving world.
+          Harvard Business Review Press.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R7">
+        <mixed-citation>
+          Lewin, K. (1947).
+          Frontiers in group dynamics.
+          Human Relations, 1(1), 5–41.
+          https://doi.org/10.1177/001872674700100103
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R8">
+        <mixed-citation>
+          Organización Mundial del Comercio, &amp;
+          Organización Mundial de Aduanas. (2022).
+          El papel de las tecnologías avanzadas en el comercio
+          transfronterizo: una perspectiva aduanera.
+          Organización Mundial del Comercio.
+          https://www.wto.org/spanish/res_s/publications_s/wcotech22_s.htm
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R9">
+        <mixed-citation>
+          Schein, E. H., &amp; Schein, P. (2021).
+          Organizational culture and leadership (6th ed.).
+          Wiley.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R10">
+        <mixed-citation>
+          Westerman, G., Bonnet, D., &amp; McAfee, A. (2019).
+          Leading digital: Turning technology into business transformation.
+          Harvard Business Review Press.
+        </mixed-citation>
+      </ref>
+
+
+      <ref id="R11">
+        <mixed-citation>
+          Yin, R. K. (2018).
+          Case study research and applications:
+          Design and methods (6th ed.).
+          SAGE Publications.
+        </mixed-citation>
+      </ref>
+
+    </ref-list>
+
+  </back>
+
+</article>
